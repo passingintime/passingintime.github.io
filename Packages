@@ -47,7 +47,7 @@ Size: 23
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with a YinYang icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
-Depiction: http://passingintime.github.io/Depic/com.passingintime.yingyang/index.html
+Depiction: http://passingintime.github.io/Depic/com.passingintime.yinyang/index.html
 Name: Ying Yang LockGlyph
 
 Package: com.rybal.aperture
