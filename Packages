@@ -11,3 +11,67 @@ Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.geeksquadlockglyph/index.html
 Name: Geek Squad LockGlyph
 
+Package: com.rybal.goldshield
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: LockGlyph
+Filename: debs//com.rybal.goldshield.deb
+Size: 43.6
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with a gold SHIELD icon.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.goldshield/index.html
+Name: Gold SHIELD LockGlyph
+
+Package: com.rybal.sobshield
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: LockGlyph
+Filename: debs//com.rybal.sobshield.deb
+Size: 28.5
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with a silver/gray on black SHIELD icon.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.sobshield/index.html
+Name: Silver/Gray On Back SHIELD LockGlyph
+
+Package: com.rybal.yingyang
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: LockGlyph
+Filename: debs//com.rybal.yinyang.deb
+Size: 23
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with a YinYang icon.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.yingyang/index.html
+Name: Ying Yang LockGlyph
+
+Package: com.rybal.aperture
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: LockGlyph
+Filename: debs//com.rybal.aperture.deb
+Size: 11.8
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Aperture Science icon.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.aperture/index.html
+Name: Aperture Science LockGlyph
+
+Package: com.rybal.element
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: LockGlyph
+Filename: debs//com.rybal.element.deb
+Size: 42.8
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Element icon.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.element/index.html
+Name: Element LockGlyph
