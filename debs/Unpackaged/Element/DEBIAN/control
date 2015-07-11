@@ -1,0 +1,10 @@
+Package: com.rbal.elementlockglyph 
+Name: Element LockGlyph Theme
+Version: 1.0
+Architecture: iphoneos-arm 
+Description: Replaces default LockGlyph theme with a Element logo.
+Homepage: cydia.myrepospace.com/rbal/
+Maintainer: PassingInTime <you@example.com> 
+Author: Ryan B 
+Sponsor: MyRepoSpace <www.myrepospace.com> 
+Section: Themes

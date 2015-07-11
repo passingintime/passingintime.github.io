@@ -1,0 +1,10 @@
+Package: com.rbal.yinyanglockglyph 
+Name: Yin Yang LockGlyph Theme
+Version: 1.0
+Architecture: iphoneos-arm 
+Description: Replaces default LockGlyph theme with a Yin Yang logo.
+Homepage: cydia.myrepospace.com/rbal/
+Maintainer: PassingInTime <you@example.com> 
+Author: Ryan B 
+Sponsor: MyRepoSpace <www.myrepospace.com> 
+Section: Themes

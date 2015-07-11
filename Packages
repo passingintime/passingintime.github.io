@@ -1,0 +1,13 @@
+Package: com.rybal.geeksquadlockglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: LockGlyph
+Filename: debs//com.rybal.geeksquadlockglyph.deb
+Size: 11.8
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Geek Squad icon.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://rybal.github.io/Depic/com.rybal.geeksquadlockglyph/index.html
+Name: Geek Squad LockGlyph
+
