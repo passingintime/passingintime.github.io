@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.rybal.geeksquadlockglyph.deb
-Size: 11.8
+Size: 36KB
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Geek Squad icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -17,7 +17,7 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.rybal.goldshield.deb
-Size: 43.6
+Size: 44KB
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with a gold SHIELD icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -30,7 +30,7 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.rybal.sobshield.deb
-Size: 28.5
+Size: 29KB
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with a silver/gray on black SHIELD icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -43,7 +43,7 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.rybal.yinyang.deb
-Size: 23
+Size: 24KB
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with a YinYang icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -56,7 +56,7 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.rybal.aperture.deb
-Size: 11.8
+Size: 12KB
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Aperture Science icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -69,7 +69,7 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.rybal.element.deb
-Size: 42.8
+Size: 43KB
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Element icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
