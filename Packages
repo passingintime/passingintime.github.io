@@ -2,7 +2,7 @@ Package: com.rybal.geeksquadlockglyph
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
-Depends: LockGlyph (>=1.1)
+Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.rybal.geeksquadlockglyph.deb
 Size: 11.8
 Section: Themes (LockGlyph)
