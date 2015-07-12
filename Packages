@@ -15,7 +15,7 @@ Package: com.rybal.goldshield
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
-Depends: LockGlyph (>=1.1)
+Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.rybal.goldshield.deb
 Size: 43.6
 Section: Themes (LockGlyph)
@@ -28,7 +28,7 @@ Package: com.rybal.sobshield
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
-Depends: LockGlyph (>=1.1)
+Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.rybal.sobshield.deb
 Size: 28.5
 Section: Themes (LockGlyph)
@@ -41,7 +41,7 @@ Package: com.rybal.yingyang
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
-Depends: LockGlyph (>=1.1)
+Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.rybal.yinyang.deb
 Size: 23
 Section: Themes (LockGlyph)
@@ -54,7 +54,7 @@ Package: com.rybal.aperture
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
-Depends: LockGlyph (>=1.1)
+Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.rybal.aperture.deb
 Size: 11.8
 Section: Themes (LockGlyph)
@@ -67,7 +67,7 @@ Package: com.rybal.element
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
-Depends: LockGlyph (>=1.1)
+Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.rybal.element.deb
 Size: 42.8
 Section: Themes (LockGlyph)
