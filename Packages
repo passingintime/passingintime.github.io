@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.rybal.geeksquadlockglyph.deb
-Size: 12184
+Size: 36486
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Geek Squad icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -17,7 +17,7 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.rybal.goldshield.deb
-Size: 44KB
+Size: 44680
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with a gold SHIELD icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -30,7 +30,7 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.rybal.sobshield.deb
-Size: 29KB
+Size: 29282
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with a silver/gray on black SHIELD icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -43,7 +43,7 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.rybal.yinyang.deb
-Size: 24KB
+Size: 23598
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with a YinYang icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -56,7 +56,7 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.rybal.aperture.deb
-Size: 12KB
+Size: 12184
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Aperture Science icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -69,7 +69,7 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.rybal.element.deb
-Size: 43KB
+Size: 43834
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Element icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
