@@ -1,8 +1,8 @@
 Package: com.rybal.geeksquadlockglyph
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
-Depends: LockGlyph
+Depends: LockGlyph (>=1.1)
 Filename: debs//com.rybal.geeksquadlockglyph.deb
 Size: 11.8
 Section: Themes (LockGlyph)
@@ -12,10 +12,10 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.geeksquadlockg
 Name: Geek Squad LockGlyph
 
 Package: com.rybal.goldshield
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
-Depends: LockGlyph
+Depends: LockGlyph (>=1.1)
 Filename: debs//com.rybal.goldshield.deb
 Size: 43.6
 Section: Themes (LockGlyph)
@@ -25,10 +25,10 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.goldshield/ind
 Name: Gold SHIELD LockGlyph
 
 Package: com.rybal.sobshield
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
-Depends: LockGlyph
+Depends: LockGlyph (>=1.1)
 Filename: debs//com.rybal.sobshield.deb
 Size: 28.5
 Section: Themes (LockGlyph)
@@ -38,10 +38,10 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.sobshield/inde
 Name: Silver/Gray On Back SHIELD LockGlyph
 
 Package: com.rybal.yingyang
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
-Depends: LockGlyph
+Depends: LockGlyph (>=1.1)
 Filename: debs//com.rybal.yinyang.deb
 Size: 23
 Section: Themes (LockGlyph)
@@ -51,10 +51,10 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.yinyang/index.
 Name: Ying Yang LockGlyph
 
 Package: com.rybal.aperture
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
-Depends: LockGlyph
+Depends: LockGlyph (>=1.1)
 Filename: debs//com.rybal.aperture.deb
 Size: 11.8
 Section: Themes (LockGlyph)
@@ -64,10 +64,10 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.aperture/index
 Name: Aperture Science LockGlyph
 
 Package: com.rybal.element
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
-Depends: LockGlyph
+Depends: LockGlyph (>=1.1)
 Filename: debs//com.rybal.element.deb
 Size: 42.8
 Section: Themes (LockGlyph)
