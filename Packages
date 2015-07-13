@@ -1,12 +1,12 @@
-Package: com.passingintime.geeksquadlockglyph
-Version: 1.1
+Package: com.passingintime.geeksquad
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.geeksquadlockglyph.deb
-Size: 36472
-MD5sum: 7ba50223c29a0a24e69a7368e8361a47
-SHA1: 67bb8078b852faf8f4fa5236c045b75c3e66203f
+Size: 36466
+MD5sum: 6b3adc4101fe3e64488f9f97b80507b5
+SHA1: 5f7584099509a69ad49605c626049f82311975ee
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Geek Squad icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -14,14 +14,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.geeksquadlockg
 Name: Geek Squad LockGlyph
 
 Package: com.passingintime.goldshield
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.goldshield.deb
-Size: 44694
-MD5sum: 432b53141ef607bd116eb22553efb833
-SHA1: ac34bb4e6451c08ad1479dac98b8bad050feef88
+Size: 44684
+MD5sum: 7eb555a70f0de640e15ce180bfaacd92
+SHA1: a11af1caaffb5e680c340fd4ce852f22791eac07
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with a gold SHIELD icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -29,14 +29,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.goldshield/ind
 Name: Gold SHIELD LockGlyph
 
 Package: com.passingintime.sobshield
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.sobshield.deb
-Size: 29252
-MD5sum: d48f2b9080347ea28730742a990c14d2
-SHA1: b04665e9d1717e85d69216917f971d1a29633dc2
+Size: 29250
+MD5sum: 08730da92612b05685f1f6b6e63fee60
+SHA1: d8cf600bcdf7c57c0d32f156558cf75953b0ea88
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with a silver/gray on black SHIELD icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -44,14 +44,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.sobshield/inde
 Name: Silver/Gray On Back SHIELD LockGlyph
 
 Package: com.passingintime.yingyang
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.yinyang.deb
-Size: 23596
-MD5sum: 84e375df4fa4d82abfaec1b96621463b
-SHA1: 9e025638f80d9c37b738a628eccc55012e16c858
+Size: 9422
+MD5sum: b67fd696b36731efb1b9c707bf6d02dc
+SHA1: 9494ef1ccc39ddbad7b9fe73ce44944fe458863f
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with a YinYang icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -59,14 +59,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.yinyang/index.
 Name: Ying Yang LockGlyph
 
 Package: com.passingintime.aperture
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.aperture.deb
-Size: 15144
-MD5sum: 8a68a1d1de90e364ea4249b345ffa570
-SHA1: d96d22cf65a99af79e8d8ac68d60299de1109640
+Size: 15130
+MD5sum: 428b055611426f9c6d0b6b642da53706
+SHA1: 68b94adf895564daeb0735c70f2bfe1283eebf05
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Aperture Science icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -74,14 +74,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.aperture/index
 Name: Aperture Science LockGlyph
 
 Package: com.passingintime.element
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.element.deb
-Size: 43828
-MD5sum: 62c794ebc2a7a35e0b294913c392449b
-SHA1: e7203315a1f4c6ad27ad4e7bafd0a77e967f3a13
+Size: 43820
+MD5sum: c0f63e9e20a2c1d760d0a9e517d5627a
+SHA1: 565dfb55e1ff54ebcf90cbf069f38ab5339d89fa
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Element icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
