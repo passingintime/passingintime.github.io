@@ -43,7 +43,7 @@ Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.sobshield/index.html
 Name: Silver/Gray On Back SHIELD LockGlyph
 
-Package: com.passingintime.yingyang
+Package: com.passingintime.yinyang
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
@@ -56,7 +56,7 @@ Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with a YinYang icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.yinyang/index.html
-Name: Ying Yang LockGlyph
+Name: Yin Yang LockGlyph
 
 Package: com.passingintime.aperture
 Version: 1.2
