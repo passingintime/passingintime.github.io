@@ -5,8 +5,8 @@ Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.geeksquadlockglyph.deb
 Size: 36480
-MD5sum: 6195713e31958c1ff7a5e55a152540d0
-SHA1: 0d893772d949d6a9096fe816e4327f782e3825ba
+MD5sum: a25e97b15b91fc4ef2d6a063b351685e
+SHA1: 9aa3a75ba5cb60919bf5f5bd8b799ddcedf1eb92
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Geek Squad icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -20,8 +20,8 @@ Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.goldshield.deb
 Size: 44698
-MD5sum: 6f74aae5b07a7438f3b9c9dfd41760c9
-SHA1: 3cb91ad89b0e286dcbede5f2aedba7702534d226
+MD5sum: c10b08fae7ee91570e37f5d775f85047
+SHA1: 624a1e7e7ebe780ce5eace4bfa0df975052fabfa
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with a gold SHIELD icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -35,8 +35,8 @@ Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.sobshield.deb
 Size: 29266
-MD5sum: 16ee258e7d6e6a44691bb9017bf1c9fd
-SHA1: e318519cd48f6f909b8b0f8451bf5bcc92e8ee67
+MD5sum: e09c0a319af72b3370bbf249aa568704
+SHA1: 7d24a284e7d1aca1d9ac1c911e29d6770e0d87c6
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with a silver/gray on black SHIELD icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -50,8 +50,8 @@ Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.yinyang.deb
 Size: 23600
-MD5sum: 2d0c73d86a08ec23b60caf9a77955a2a
-SHA1: 1b82d14c74625d5709158f4c11f1c44665573887
+MD5sum: 3db6029ecd004b64f8002f8d32ac6fce
+SHA1: d0f5c11225c3ca7c2cd79f32caf774aaed89d665
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with a YinYang icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -65,8 +65,8 @@ Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.aperture.deb
 Size: 12182
-MD5sum: 740ab02077ea9b00ad68740e79576dea
-SHA1: 4ff038153dd794d707fa321b6ec9e94189c910cc
+MD5sum: f070b1a1054160e84e81039827d0ec90
+SHA1: bb46810b806c4aadf5908a902999c58ac4d22ed0
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Aperture Science icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -80,8 +80,8 @@ Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.element.deb
 Size: 43844
-MD5sum: e9cb6a26b9961511c7ece2c20d9b340c
-SHA1: f1a1f2129f49998f4ffd94c84361013422b2f7c0
+MD5sum: 3a5bce57910be47dc403df960cea40ce
+SHA1: f9ae56a39e0f53befbd1f3c20fe847ee59ec9d74
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Element icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
