@@ -1,6 +1,6 @@
 Package: com.passingintime.sobshield
 Name: Gray/Silver SHIELD Logo LockGlyph Theme
-Version: 1.0
+Version: 1.2
 Architecture: iphoneos-arm 
 Description: Replaces default LockGlyph theme with a gray/silver SHIELD logo.
 Homepage: passingintime.github.io
