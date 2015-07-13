@@ -3,7 +3,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
-Filename: debs//com.rybal.geeksquadlockglyph.deb
+Filename: debs//com.passingintime.geeksquadlockglyph.deb
 Size: 36486
 MD5sum: 6195713e31958c1ff7a5e55a152540d0
 SHA1: 0d893772d949d6a9096fe816e4327f782e3825ba
@@ -18,7 +18,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
-Filename: debs//com.rybal.goldshield.deb
+Filename: debs//com.passingintime.goldshield.deb
 Size: 44680
 MD5sum: 6f74aae5b07a7438f3b9c9dfd41760c9
 SHA1: 3cb91ad89b0e286dcbede5f2aedba7702534d226
@@ -33,7 +33,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
-Filename: debs//com.rybal.sobshield.deb
+Filename: debs//com.passingintime.sobshield.deb
 Size: 29282
 MD5sum: 16ee258e7d6e6a44691bb9017bf1c9fd
 SHA1: e318519cd48f6f909b8b0f8451bf5bcc92e8ee67
@@ -48,7 +48,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
-Filename: debs//com.rybal.yinyang.deb
+Filename: debs//com.passingintime.yinyang.deb
 Size: 23598
 MD5sum: 2d0c73d86a08ec23b60caf9a77955a2a
 SHA1: 1b82d14c74625d5709158f4c11f1c44665573887
@@ -63,7 +63,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
-Filename: debs//com.rybal.aperture.deb
+Filename: debs//com.passingintime.aperture.deb
 Size: 12184
 MD5sum: 740ab02077ea9b00ad68740e79576dea
 SHA1: 4ff038153dd794d707fa321b6ec9e94189c910cc
@@ -78,7 +78,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
-Filename: debs//com.rybal.element.deb
+Filename: debs//com.passingintime.element.deb
 Size: 43834
 MD5sum: e9cb6a26b9961511c7ece2c20d9b340c
 SHA1: f1a1f2129f49998f4ffd94c84361013422b2f7c0
