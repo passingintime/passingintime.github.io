@@ -1,9 +1,9 @@
-Package: com.rbal.geeksquadlockglyph 
+Package: com.passingintime.geeksquadlockglyph 
 Name: Geek Squad LockGlyph Theme
 Version: 1.0
 Architecture: iphoneos-arm 
 Description: Replaces default LockGlyph theme with the Geek Squad logo. Set Scanning Colour to HEX: #E37222
-Homepage: cydia.myrepospace.com/rbal/
+Homepage: passingintime.github.io
 Maintainer: PassingInTime <you@example.com> 
 Author: Ryan B 
 Sponsor: MyRepoSpace <www.myrepospace.com> 

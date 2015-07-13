@@ -1,9 +1,9 @@
-Package: com.rbal.aperturelockglyph 
+Package: com.passingintime.aperturelockglyph 
 Name: Aperture LockGlyph Theme
 Version: 1.0
 Architecture: iphoneos-arm 
 Description: Replaces default LockGlyph theme with the Aperture Science logo.
-Homepage: cydia.myrepospace.com/rbal/
+Homepage: passingintime.github.io
 Maintainer: PassingInTime <you@example.com> 
 Author: Ryan B 
 Sponsor: MyRepoSpace <www.myrepospace.com> 

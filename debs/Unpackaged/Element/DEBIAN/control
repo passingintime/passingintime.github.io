@@ -1,9 +1,9 @@
-Package: com.rbal.elementlockglyph 
+Package: com.passingintime.elementlockglyph 
 Name: Element LockGlyph Theme
 Version: 1.0
 Architecture: iphoneos-arm 
 Description: Replaces default LockGlyph theme with a Element logo.
-Homepage: cydia.myrepospace.com/rbal/
+Homepage: passingintime.github.io
 Maintainer: PassingInTime <you@example.com> 
 Author: Ryan B 
 Sponsor: MyRepoSpace <www.myrepospace.com> 
