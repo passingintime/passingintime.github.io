@@ -43,21 +43,6 @@ Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.sobshield/index.html
 Name: Silver/Gray On Back SHIELD LockGlyph
 
-Package: com.passingintime.yinyang
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: PassingInTime <passingintime@gmail.com>
-Depends: com.evilgoldfish.lockglyph
-Filename: debs//com.passingintime.yinyang.deb
-Size: 9420
-MD5sum: 342681e4cedda85b473e11431e52cd6f
-SHA1: fbc74d6434b74eaeb8a20243013af76890642b7e
-Section: Themes (LockGlyph)
-Description: Replace the default LockGlyph with a YinYang icon.
-Author: Ryan Baldwin <passingintime@gmail.com>
-Depiction: http://passingintime.github.io/Depic/com.passingintime.yinyang/index.html
-Name: Yin Yang LockGlyph
-
 Package: com.passingintime.aperture
 Version: 1.0
 Architecture: iphoneos-arm
@@ -147,3 +132,18 @@ Description: Replace the default LockGlyph with the Pepsi logo with flat colors.
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.pepsiflat/index.html
 Name: Flat Pepsi LockGlyph
+
+Package: com.passingintime.yinyang
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.yinyang.deb
+Size: 9420
+MD5sum: 342681e4cedda85b473e11431e52cd6f
+SHA1: fbc74d6434b74eaeb8a20243013af76890642b7e
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with a YinYang icon.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.yinyang/index.html
+Name: Yin Yang LockGlyph
