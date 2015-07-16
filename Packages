@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.geeksquad.deb
-Size: 36484
-MD5sum: 87fad6c9ad0b95b9e378f9a0a9974954
-SHA1: c0a3dc88c1b9cac73fb2ef6017a185b66beea97e
+Size: 36460
+MD5sum: 0e29557c33a27c407e556aad704329d2
+SHA1: a7802f049afd1a903dc593438de21b8fdeb8eadf
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Geek Squad icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -19,9 +19,9 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.goldshield.deb
-Size: 44698
-MD5sum: 6ca862e18bc5ff189041d98255eccf8e
-SHA1: ab98f65cf957bd1a64e4dbab26661d6bf52fa1fb
+Size: 44686
+MD5sum: 3d4a8923c628014c684710be5f918623
+SHA1: 0740413ad8a6b138f204fc77322c30ee70043244
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with a gold SHIELD icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -34,9 +34,9 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.sobshield.deb
-Size: 29260
-MD5sum: 3070a98de5d8859822d90ac90586a806
-SHA1: 483d32cca26973665c37950785c863e98a18f809
+Size: 29250
+MD5sum: 6ec52291d7d22baa038a0a1f5c158413
+SHA1: ddaae966c0c530b709d023c6f0ed4642c5b1f7b1
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with a silver/gray on black SHIELD icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -49,9 +49,9 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.aperture.deb
-Size: 15140
-MD5sum: 40545b31ce2c70358ef94dbd7a2bc9f2
-SHA1: d217d7e4690e62a70dc07d9e404cfd7a741c0326
+Size: 13702
+MD5sum: fa977268c213d1cc43377f60559d6bb5
+SHA1: b5b2b4767a098a130d4ae996d1872bc470ac81ee
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Aperture Science icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -64,9 +64,9 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.element.deb
-Size: 43830
-MD5sum: d20cef92c8086f8d23e7a7d8d0c0e33f
-SHA1: 3590e1fe65ea79732f3fd7da9d865032a01c343d
+Size: 41014
+MD5sum: a0a445b9d78e921249c9cafcad4190c4
+SHA1: cb01f124ee5422a4097f75fd21c859600d7950fd
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Element icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -139,9 +139,9 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.yinyang.deb
-Size: 9420
-MD5sum: 342681e4cedda85b473e11431e52cd6f
-SHA1: fbc74d6434b74eaeb8a20243013af76890642b7e
+Size: 9416
+MD5sum: cc7b2ff89747dc06bfecbb827fef6694
+SHA1: 2f1df5c08134d63519055ed6665a4a9cc490223b
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with a YinYang icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
