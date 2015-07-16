@@ -1,8 +1,8 @@
-Package: com.passingintime.yinyang
-Name: YinYang LockGlyph Theme
+Package: com.passingintime.pepsiflat
+Name: Flat Pepsi LockGlyph Theme
 Version: 1.0
 Architecture: iphoneos-arm 
-Description: Replaces default LockGlyph theme with a YinYang logo.
+Description: Replaces default LockGlyph theme with the Pepsi logo with flat colors.
 Homepage: passingintime.github.io
 Depends: com.evilgoldfish.lockglyph
 Section: Themes
