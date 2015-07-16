@@ -44,14 +44,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.sobshield/inde
 Name: Silver/Gray On Back SHIELD LockGlyph
 
 Package: com.passingintime.yinyang
-Version: 1.2
+Version: 1.5
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.yinyang.deb
-Size: 9448
-MD5sum: ce30f3f58cf9d9de3071efbc3f4eec51
-SHA1: d5c3c311b7051bedcd62ee2e79c055b7970ad07f
+Size: 9422
+MD5sum: 43b19f3c19e01f321aba6a1915515df8
+SHA1: f6c75987211d410a1dc7746de9bb021cb6542041
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with a YinYang icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
