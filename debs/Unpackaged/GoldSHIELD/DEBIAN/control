@@ -1,10 +1,10 @@
 Package: com.passingintime.goldshield
 Name: Gold SHIELD Logo LockGlyph Theme
-Version: 1.2
+Version: 1.0
 Architecture: iphoneos-arm 
 Description: Replaces default LockGlyph theme with a gold SHIELD logo. Set Scanning Colour to HEX: #E37222
 Homepage: passingintime.github.io
-Maintainer: PassingInTime <you@example.com> 
-Author: Ryan B 
-Sponsor: GitHub <www.github.com> 
+Depends: com.evilgoldfish.lockglyph
 Section: Themes
+Author: Ryan B 
+Maintainer: PassingInTime <you@example.com>  

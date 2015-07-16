@@ -1,10 +1,10 @@
 Package: com.passingintime.geeksquad 
 Name: Geek Squad LockGlyph Theme
-Version: 1.2
+Version: 1.0
 Architecture: iphoneos-arm 
 Description: Replaces default LockGlyph theme with the Geek Squad logo. Set Scanning Colour to HEX: #E37222
 Homepage: passingintime.github.io
-Maintainer: PassingInTime <you@example.com> 
-Author: Ryan B 
-Sponsor: GitHub <www.github.com> 
+Depends: com.evilgoldfish.lockglyph
 Section: Themes
+Author: Ryan B 
+Maintainer: PassingInTime <you@example.com>  
