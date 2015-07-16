@@ -147,3 +147,33 @@ Description: Replace the default LockGlyph with a YinYang icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.yinyang/index.html
 Name: Yin Yang LockGlyph
+
+Package: com.passingintime.captam
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.captam.deb
+Size: 19850
+MD5sum: 827ab2b7623b01440fcb4f6b3a00a586
+SHA1: 91ded8811e601b76cfb7db062eef7999eb607354
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Captain America shield.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.captam/index.html
+Name: Captain America LockGlyph
+
+Package: com.passingintime.captamflat
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.captamflat.deb
+Size: 18456
+MD5sum: 46cd644db2b5a8652ced6b7cc4707823
+SHA1: f2bdedf6e008295fe0ae539bf1d1e9165a757301
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Captain America shield with flat colors.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.captamflat/index.html
+Name: Flat Captain America LockGlyph
