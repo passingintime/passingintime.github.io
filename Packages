@@ -19,9 +19,9 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.goldshield.deb
-Size: 44686
-MD5sum: 3d4a8923c628014c684710be5f918623
-SHA1: 0740413ad8a6b138f204fc77322c30ee70043244
+Size: 73050
+MD5sum: 5b842b0f7f47a28bfdc66f0fe7f8a31d
+SHA1: a6f1830a2ea31a85c2402473c00000e414181a09
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with a gold SHIELD icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
