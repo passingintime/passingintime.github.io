@@ -49,9 +49,9 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.yinyang.deb
-Size: 9426
-MD5sum: f692ffcc76bfd8b4cd895b42ff5584d1
-SHA1: 51aed5aae4ab6776f53c6842c1813403a7b8fd0f
+Size: 9420
+MD5sum: 342681e4cedda85b473e11431e52cd6f
+SHA1: fbc74d6434b74eaeb8a20243013af76890642b7e
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with a YinYang icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -87,3 +87,63 @@ Description: Replace the default LockGlyph with the Element icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.element/index.html
 Name: Element LockGlyph
+
+Package: com.passingintime.cocacola
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.cocacola.deb
+Size: 15344
+MD5sum: 9d9573b2d0162b2c5e32973ab0f7d602
+SHA1: a9ba35f7b819820234856bf295c27dae0277aa2b
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the CocaCola logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.cocacola/index.html
+Name: CocaCola LockGlyph
+
+Package: com.passingintime.cocacolaflat
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.cocacolaflat.deb
+Size: 12518
+MD5sum: 4a84d8160c15aa6e24869c1384b34f54
+SHA1: 8f01a97ce426134972ba36f28283bb8d57987425
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the CocaCola logo with flat colors.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.cocacolaflat/index.html
+Name: Flat CocaCola LockGlyph
+
+Package: com.passingintime.pepsi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.pepsi.deb
+Size: 39946
+MD5sum: 45fb6a419500d757ac340fcfdba9a489
+SHA1: df98cac7f1346c4ea16ea2b8dc516adcf6e136e9
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Pepsi logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.pepsi/index.html
+Name: Pepsi LockGlyph
+
+Package: com.passingintime.pepsiflat
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.pepsiflat.deb
+Size: 18334
+MD5sum: 2c7a3ba84bb834f9bfd2afdf4f06f934
+SHA1: f81ffc368df643b6da618fb7f022a5a9fc26e7e5
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Pepsi logo with flat colors.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.pepsiflat/index.html
+Name: Flat Pepsi LockGlyph
