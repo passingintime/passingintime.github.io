@@ -134,14 +134,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.pepsiflat/inde
 Name: Flat Pepsi LockGlyph
 
 Package: com.passingintime.yinyang
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.yinyang.deb
-Size: 9416
-MD5sum: cc7b2ff89747dc06bfecbb827fef6694
-SHA1: 2f1df5c08134d63519055ed6665a4a9cc490223b
+Size: 12894
+MD5sum: c571320ef3e071927c14b0186882bec7
+SHA1: 4b5baf59c689d0c28c0ef1c212d15a8653f9db98
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with a YinYang icon.
 Author: Ryan Baldwin <passingintime@gmail.com>

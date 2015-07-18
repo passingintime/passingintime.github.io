@@ -1,6 +1,6 @@
 Package: com.passingintime.yinyang
 Name: YinYang LockGlyph Theme
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm 
 Description: Replaces default LockGlyph theme with a YinYang logo.
 Homepage: passingintime.github.io
