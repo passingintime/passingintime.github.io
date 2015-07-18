@@ -154,7 +154,7 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.captam.deb
-Size: 52994
+Size: 52944
 MD5sum: 118ad1ef481f397ebc4a49a18c5fb4f0
 SHA1: ca24f705f1a57d7a938091753213d273f9f04cf1
 Section: Themes (LockGlyph)
