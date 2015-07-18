@@ -1,6 +1,6 @@
 Package: com.passingintime.pepsiflat
 Name: Flat Pepsi LockGlyph Theme
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm 
 Description: Replaces default LockGlyph theme with the Pepsi logo with flat colors.
 Homepage: passingintime.github.io

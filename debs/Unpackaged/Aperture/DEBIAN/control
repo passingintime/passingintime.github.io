@@ -1,6 +1,6 @@
 Package: com.passingintime.aperture
 Name: Aperture LockGlyph Theme
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm 
 Description: Replaces default LockGlyph theme with the Aperture Science logo.
 Homepage: passingintime.github.io
