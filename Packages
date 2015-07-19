@@ -177,3 +177,78 @@ Description: Replace the default LockGlyph with the Captain America shield with 
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.captamflat/index.html
 Name: Flat Captain America LockGlyph
+
+Package: com.passingintime.airforce
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.airforce.deb
+Size: 33284
+MD5sum: 790a0924df8dd0a40565aba141009760
+SHA1: 055eedeaacab75bc11e84db336a7c3cf57e2c127
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the US Air Force logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.airforce/index.html
+Name: US Air Force LockGlyph
+
+Package: com.passingintime.army
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.army.deb
+Size: 74334
+MD5sum: 37f655d3791938ab5cf4f807adcb62c0
+SHA1: b9ec50509df2d002061ef9e1c413a5843f02ec8a
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the US Army logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.army/index.html
+Name: US Army LockGlyph
+
+Package: com.passingintime.coastguard
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.coastguard.deb
+Size: 64290
+MD5sum: b58bc0798f6528934ab835552a18e374
+SHA1: 2189acf34b7bc933a8de5130596bb3676bf71831
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Coast Guard logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.coastguard/index.html
+Name: US Coast Guard LockGlyph
+
+Package: com.passingintime.marines
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.marines.deb
+Size: 70954
+MD5sum: ae9c98023b8a8b83b65a8b7fe5a5d0e1
+SHA1: 86ac3e72f434c0c33f01b1a697ecec2bb6b8ad46
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the US Marines.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.marines/index.html
+Name: US Marines LockGlyph
+
+Package: com.passingintime.navy
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.navy.deb
+Size: 74698
+MD5sum: 92ef1e52678afa55812d4510361d11d7
+SHA1: 72d3771ae1b0250d7cf5029d61f942e43b53a5ae
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the US Navy.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.navy/index.html
+Name: US Navy LockGlyph
