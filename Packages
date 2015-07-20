@@ -109,9 +109,9 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.pepsi.deb
-Size: 56144
-MD5sum: 926f74c28c0104f4cda018d3f5f00360
-SHA1: 20e2eac49347f1e444779f126531d606a613b952
+Size: 56150
+MD5sum: fed0449eb1c70c5c15db06a02bd0fb1b
+SHA1: d90849bcdc1bc9e27086c11df96c3c1dfa5f85f6
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Pepsi logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -124,9 +124,9 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.pepsiflat.deb
-Size: 24586
-MD5sum: 08975ee42089b5d0b1887805c2cbfc54
-SHA1: caf44fb59008ab4ee95a7c0ffc2ae6355613cb7d
+Size: 24588
+MD5sum: 4569b13105319e69c12eb6363819456c
+SHA1: 7d042baed0bd58b6899819bb38bcc325d44363e0
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Pepsi logo with flat colors.
 Author: Ryan Baldwin <passingintime@gmail.com>
