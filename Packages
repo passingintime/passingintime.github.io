@@ -252,3 +252,108 @@ Description: Replace the default LockGlyph with the US Navy.
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.navy/index.html
 Name: US Navy LockGlyph
+
+Package: com.passingintime.pepsi
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.pepsi.deb
+Size: 56144
+MD5sum: 926f74c28c0104f4cda018d3f5f00360
+SHA1: 20e2eac49347f1e444779f126531d606a613b952
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Pepsi logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.pepsi/index.html
+Name: Pepsi LockGlyph
+
+Package: com.passingintime.bmw
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.bmw.deb
+Size: 46914
+MD5sum: 0dc36302edb160b435591b5d9902a883
+SHA1: 1f5ea4cb12312a8dd14e351c1f9feac97d529e84
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the BMW logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.bmw/index.html
+Name: BMW LockGlyph
+
+Package: com.passingintime.ea
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.ea.deb
+Size: 38230
+MD5sum: 801b511c64899e46b5c624bc9958226b
+SHA1: a6cf15754ca2b995b0af4c90421db742625b8042
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Electronic Arts logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.ea/index.html
+Name: Electronic Arts LockGlyph
+
+Package: com.passingintime.facebook
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.facebook.deb
+Size: 30018
+MD5sum: 18cf99c1b03b08d22a20296238ecb8f4
+SHA1: 8934a9f90521d58ba1bfb1d021080c153eb6afad
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Facebook logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.facebook/index.html
+Name: Facebook LockGlyph
+
+Package: com.passingintime.kfc
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.kfc.deb
+Size: 44442
+MD5sum: 93e3998ac8b13ec7dbfc7a278a57d30f
+SHA1: e3a52099676ee2a089e89c66a4f280aea7883600
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the KFC logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.kfc/index.html
+Name: KFC LockGlyph
+
+Package: com.passingintime.target
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.target.deb
+Size: 20052
+MD5sum: 513358d0db5469e9e91d22204ccb295b
+SHA1: 1de8183418b9149a28460d222d49e624543acd8c
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Target logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.target/index.html
+Name: Target LockGlyph
+
+Package: com.passingintime.windows
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.windows.deb
+Size: 81946
+MD5sum: b308c1f5bcd8bab391a9f09cd3684cab
+SHA1: 6a71df7078c5540a4f8fe55f819776efe7de3734
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Windows logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.windows/index.html
+Name: Windows LockGlyph

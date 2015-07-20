@@ -1,0 +1,10 @@
+Package: com.passingintime.bmw
+Name: BMW LockGlyph Theme
+Version: 1.0
+Architecture: iphoneos-arm 
+Description: Replaces default LockGlyph theme with the BMW logo.
+Homepage: passingintime.github.io
+Depends: com.evilgoldfish.lockglyph
+Section: Themes
+Author: Ryan B 
+Maintainer: PassingInTime <you@example.com>
