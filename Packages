@@ -357,3 +357,33 @@ Description: Replace the default LockGlyph with the Windows logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.windows/index.html
 Name: Windows LockGlyph
+
+Package: com.passingintime.converse
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.converse.deb
+Size: 57936
+MD5sum: 4473a78de2e715cf2300f8eb5354f71b
+SHA1: 270ddbb551fdb0865dff0d9ebed711309f67aa12
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Converse All Star logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.converse/index.html
+Name: Converse All Star LockGlyph
+
+Package: com.passingintime.umbrella
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.umbrella.deb
+Size: 49944
+MD5sum: 0615d5b0c582360681f20adfedaae1a3
+SHA1: 749e6d8fe0639739efca42f7669cd807f69d1ca8
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Umbrella Corporation logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.umbrella/index.html
+Name: Umbrella Corporation LockGlyph
