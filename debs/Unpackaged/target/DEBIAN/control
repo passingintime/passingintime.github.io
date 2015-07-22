@@ -1,6 +1,6 @@
 Package: com.passingintime.target
 Name: Target LockGlyph Theme
-Version: 1.0
+Version: 2.1
 Architecture: iphoneos-arm 
 Description: Replaces default LockGlyph theme with the Target logo.
 Homepage: passingintime.github.io

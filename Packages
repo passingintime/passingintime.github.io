@@ -1,12 +1,12 @@
 Package: com.passingintime.geeksquad
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.geeksquad.deb
-Size: 29314
-MD5sum: 79200552b1570c30b62a22ddcbe0ae2a
-SHA1: 3e2ed47c3c69426215ca4100c56fda1d12f05dcb
+Size: 52286
+MD5sum: 2fb3d66ba1b1ba2f99878f1ef57e9b2d
+SHA1: b0aeb0580546230855dcf8449febde15d4127b69
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Geek Squad icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -14,14 +14,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.geeksquad/inde
 Name: Geek Squad LockGlyph
 
 Package: com.passingintime.goldshield
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.goldshield.deb
-Size: 42030
-MD5sum: ed81670c8543fa2da217e5c3fc24d31b
-SHA1: bf789a04f8ffdbbd0ed1a105789dd0c29c4e47a0
+Size: 70342
+MD5sum: c64c79804fb6384cbdf3e55ac6abddc6
+SHA1: e4be9d2dac9641b7eb1f4c21146d6b95760bc7ff
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with a gold SHIELD icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -29,14 +29,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.goldshield/ind
 Name: Gold SHIELD LockGlyph
 
 Package: com.passingintime.sobshield
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.sobshield.deb
-Size: 18124
-MD5sum: af6abac95017420c81660b05059f4a3d
-SHA1: cfa6c37ab287b8f23f3e6f31d8227e50681cd0cf
+Size: 24320
+MD5sum: f26416001468d797f1a480d1b5f181f1
+SHA1: 6a0ec0f329f4a711103c83f594d35224d54c2011
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with a silver/gray on black SHIELD icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -44,14 +44,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.sobshield/inde
 Name: Silver/Gray On Back SHIELD LockGlyph
 
 Package: com.passingintime.aperture
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.aperture.deb
-Size: 19212
-MD5sum: 87ad21d83d88620304bb2ea2bd3a2e3d
-SHA1: 3a7279ccf66b583a5c2db190ee0fed13a474c406
+Size: 12852
+MD5sum: 5d467dc100317519bca95c809ae80256
+SHA1: 14b9a56057d0f5a0c208e4e38363d52cfda1affc
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Aperture Science icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -59,14 +59,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.aperture/index
 Name: Aperture Science LockGlyph
 
 Package: com.passingintime.element
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.element.deb
-Size: 19098
-MD5sum: 4e6bab86e9978b20ea1cb9b776e47121
-SHA1: a3c0c0437e8c58bb03f68c7a47ced37e02d92016
+Size: 20394
+MD5sum: 763b2d238bc10b5ca8428c1ea0c2a351
+SHA1: 8c5455652874fa4c35321608c97a77ebc802d0aa
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Element icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -74,14 +74,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.element/index.
 Name: Element LockGlyph
 
 Package: com.passingintime.cocacola
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.cocacola.deb
-Size: 22568
-MD5sum: efc52de80b4e05685efdd90112f070ae
-SHA1: 004076f549c7605942e82b585e8c22feaf03d976
+Size: 29360
+MD5sum: 5e4d9771c114746c0040b3c107322253
+SHA1: ecd6981e9a5dc61537245a6e16e98931eaa4f8bd
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the CocaCola logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -89,14 +89,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.cocacola/index
 Name: CocaCola LockGlyph
 
 Package: com.passingintime.cocacolaflat
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.cocacolaflat.deb
-Size: 15712
-MD5sum: ade89f1b6628e817fe9b786f36820fdb
-SHA1: 4d942d63b6e9eb22a435e3f62315130664c4a013
+Size: 22094
+MD5sum: 4ef501d7a72e1bbae6e82051890fa65b
+SHA1: cc2a006d8b3eabaa9722766c08ca58614fa073bf
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the CocaCola logo with flat colors.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -104,14 +104,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.cocacolaflat/i
 Name: Flat CocaCola LockGlyph
 
 Package: com.passingintime.pepsi
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.pepsi.deb
-Size: 56150
-MD5sum: fed0449eb1c70c5c15db06a02bd0fb1b
-SHA1: d90849bcdc1bc9e27086c11df96c3c1dfa5f85f6
+Size: 157022
+MD5sum: 9aa881fd739df4a46fb854fc8b8d03f6
+SHA1: c86ca531a4979ac5e9adc6ea05f4398b3c9e8de9
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Pepsi logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -119,14 +119,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.pepsi/index.ht
 Name: Pepsi LockGlyph
 
 Package: com.passingintime.pepsiflat
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.pepsiflat.deb
-Size: 24588
-MD5sum: 4569b13105319e69c12eb6363819456c
-SHA1: 7d042baed0bd58b6899819bb38bcc325d44363e0
+Size: 26302
+MD5sum: b8f5197ffc630fcab6f9682b78abadfb
+SHA1: 24cbc0c0d05b964741ce484369e523161a9d9324
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Pepsi logo with flat colors.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -134,14 +134,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.pepsiflat/inde
 Name: Flat Pepsi LockGlyph
 
 Package: com.passingintime.yinyang
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.yinyang.deb
-Size: 12894
-MD5sum: c571320ef3e071927c14b0186882bec7
-SHA1: 4b5baf59c689d0c28c0ef1c212d15a8653f9db98
+Size: 8332
+MD5sum: 507d3370dcaa8db95b8eeb9b743e08c6
+SHA1: 51afe3b1248db74b6121902aad42445a3e8b6a2d
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with a YinYang icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -149,14 +149,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.yinyang/index.
 Name: Yin Yang LockGlyph
 
 Package: com.passingintime.captam
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.captam.deb
-Size: 22020
-MD5sum: a86cf11359459ca2b73e2535a26be9b3
-SHA1: 9d25f51e3ed44271cf88636f14ffba2231173889
+Size: 52540
+MD5sum: 509955209aaf1b4b3234a2c89fc0370b
+SHA1: b43ab4faac9ecab311a0dcfb86cfa1da609b5678
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Captain America shield.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -164,14 +164,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.captam/index.h
 Name: Captain America LockGlyph
 
 Package: com.passingintime.captamflat
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.captamflat.deb
-Size: 28236
-MD5sum: 345e634a01f90f11d6075b0c889bf4e4
-SHA1: 1cbe7add9045e2a33f1027cc6c4d11a3ec55293a
+Size: 46184
+MD5sum: f47f5a1a332bb148182aa3fd8a1f1a0b
+SHA1: 86a0aa0d041f21e1cfa8b442be11b97876f4a3d4
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Captain America shield with flat colors.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -179,14 +179,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.captamflat/ind
 Name: Flat Captain America LockGlyph
 
 Package: com.passingintime.airforce
-Version: 1.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.airforce.deb
-Size: 33284
-MD5sum: 790a0924df8dd0a40565aba141009760
-SHA1: 055eedeaacab75bc11e84db336a7c3cf57e2c127
+Size: 55394
+MD5sum: 5610c2749d6c1683fd0c0f31044904d9
+SHA1: f7db75380e7d5ffb18141047897327352447905f
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the US Air Force logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -194,14 +194,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.airforce/index
 Name: US Air Force LockGlyph
 
 Package: com.passingintime.army
-Version: 1.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.army.deb
-Size: 74334
-MD5sum: 37f655d3791938ab5cf4f807adcb62c0
-SHA1: b9ec50509df2d002061ef9e1c413a5843f02ec8a
+Size: 213370
+MD5sum: 35471e72a126fe7766c1d194214b360d
+SHA1: f3dcac523b78433f7961b97d2973a01575f2598b
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the US Army logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -209,14 +209,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.army/index.htm
 Name: US Army LockGlyph
 
 Package: com.passingintime.coastguard
-Version: 1.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.coastguard.deb
-Size: 64290
-MD5sum: b58bc0798f6528934ab835552a18e374
-SHA1: 2189acf34b7bc933a8de5130596bb3676bf71831
+Size: 185120
+MD5sum: c98b53ea733c0b0af43ae061e47f75c3
+SHA1: 0c7c0b28a3ac7cbcdfe45cd570647a1af8996794
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Coast Guard logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -224,14 +224,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.coastguard/ind
 Name: US Coast Guard LockGlyph
 
 Package: com.passingintime.marines
-Version: 1.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.marines.deb
-Size: 70954
-MD5sum: ae9c98023b8a8b83b65a8b7fe5a5d0e1
-SHA1: 86ac3e72f434c0c33f01b1a697ecec2bb6b8ad46
+Size: 205334
+MD5sum: 30cb3ab586298c1d8bc45847682a9e57
+SHA1: 46b57df65e1c5417345ec9638e1af45cc2c407a1
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the US Marines.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -239,44 +239,29 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.marines/index.
 Name: US Marines LockGlyph
 
 Package: com.passingintime.navy
-Version: 1.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.navy.deb
-Size: 74698
-MD5sum: 92ef1e52678afa55812d4510361d11d7
-SHA1: 72d3771ae1b0250d7cf5029d61f942e43b53a5ae
+Size: 214654
+MD5sum: beb6fcca933b6c39c18c358304043a7e
+SHA1: ce40743bebfe5b33f50cc6842be61053693d5a0c
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the US Navy.
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.navy/index.html
 Name: US Navy LockGlyph
 
-Package: com.passingintime.pepsi
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: PassingInTime <passingintime@gmail.com>
-Depends: com.evilgoldfish.lockglyph
-Filename: debs//com.passingintime.pepsi.deb
-Size: 56144
-MD5sum: 926f74c28c0104f4cda018d3f5f00360
-SHA1: 20e2eac49347f1e444779f126531d606a613b952
-Section: Themes (LockGlyph)
-Description: Replace the default LockGlyph with the Pepsi logo.
-Author: Ryan Baldwin <passingintime@gmail.com>
-Depiction: http://passingintime.github.io/Depic/com.passingintime.pepsi/index.html
-Name: Pepsi LockGlyph
-
 Package: com.passingintime.bmw
-Version: 1.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.bmw.deb
-Size: 46914
-MD5sum: 0dc36302edb160b435591b5d9902a883
-SHA1: 1f5ea4cb12312a8dd14e351c1f9feac97d529e84
+Size: 75070
+MD5sum: 153128f745415d0f0a03c7a3b1897fd3
+SHA1: f9e7ba8703abfdcaa507aa2414f57378b56c2ce6
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the BMW logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -284,14 +269,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.bmw/index.html
 Name: BMW LockGlyph
 
 Package: com.passingintime.ea
-Version: 1.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.ea.deb
-Size: 38230
-MD5sum: 801b511c64899e46b5c624bc9958226b
-SHA1: a6cf15754ca2b995b0af4c90421db742625b8042
+Size: 58618
+MD5sum: 89ebcfe67c15c65a8ce9b58c1634385a
+SHA1: 05078a1ca6949d7ea09232255fe546af72faf5a7
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Electronic Arts logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -299,14 +284,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.ea/index.html
 Name: Electronic Arts LockGlyph
 
 Package: com.passingintime.facebook
-Version: 1.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.facebook.deb
-Size: 30018
-MD5sum: 18cf99c1b03b08d22a20296238ecb8f4
-SHA1: 8934a9f90521d58ba1bfb1d021080c153eb6afad
+Size: 30664
+MD5sum: 6337492542b624ce37f1ca1cda3ae34d
+SHA1: 6337492542b624ce37f1ca1cda3ae34d
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Facebook logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -314,14 +299,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.facebook/index
 Name: Facebook LockGlyph
 
 Package: com.passingintime.kfc
-Version: 1.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.kfc.deb
-Size: 44442
-MD5sum: 93e3998ac8b13ec7dbfc7a278a57d30f
-SHA1: e3a52099676ee2a089e89c66a4f280aea7883600
+Size: 68850
+MD5sum: 860fef301155010714e98f0c4dc4453f
+SHA1: 13a9b962820f849d4f8a7e47e6f6b9ca6e0d001d
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the KFC logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -329,14 +314,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.kfc/index.html
 Name: KFC LockGlyph
 
 Package: com.passingintime.target
-Version: 1.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.target.deb
-Size: 20052
-MD5sum: 513358d0db5469e9e91d22204ccb295b
-SHA1: 1de8183418b9149a28460d222d49e624543acd8c
+Size: 20482
+MD5sum: 16c49141fdc7ee697f6bbfad469ffb85
+SHA1: ba376e8134b26002ff02bcb0cba92fe27b1d81c2
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Target logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -344,14 +329,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.target/index.h
 Name: Target LockGlyph
 
 Package: com.passingintime.windows
-Version: 1.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.windows.deb
-Size: 81946
-MD5sum: b308c1f5bcd8bab391a9f09cd3684cab
-SHA1: 6a71df7078c5540a4f8fe55f819776efe7de3734
+Size: 212766
+MD5sum: d34c0de65acaa64f2dcdc8d5cb495941
+SHA1: 8a2c01e6ff675612728dc6b13733635f55f28b14
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Windows logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -359,14 +344,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.windows/index.
 Name: Windows LockGlyph
 
 Package: com.passingintime.converse
-Version: 1.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.converse.deb
-Size: 57936
-MD5sum: 4473a78de2e715cf2300f8eb5354f71b
-SHA1: 270ddbb551fdb0865dff0d9ebed711309f67aa12
+Size: 159480
+MD5sum: 2f0f90538338b2df37ad867e3b3e3d29
+SHA1: 7d3214a2a7d93a7d2fdf57b61e962e6862e88e9c
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Converse All Star logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -374,14 +359,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.converse/index
 Name: Converse All Star LockGlyph
 
 Package: com.passingintime.umbrella
-Version: 1.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.umbrella.deb
-Size: 49944
-MD5sum: 0615d5b0c582360681f20adfedaae1a3
-SHA1: 749e6d8fe0639739efca42f7669cd807f69d1ca8
+Size: 67950
+MD5sum: 9c8fa6a9923742b2a73f3a3262697286
+SHA1: f3cfc0304c6fd177179c85f77611f1f5a0ba7968
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Umbrella Corporation logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
