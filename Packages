@@ -291,7 +291,7 @@ Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.facebook.deb
 Size: 30664
 MD5sum: 6337492542b624ce37f1ca1cda3ae34d
-SHA1: 6337492542b624ce37f1ca1cda3ae34d
+SHA1: 8169d6d578fab6642b8b2642587a1521f0f5452d
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Facebook logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
