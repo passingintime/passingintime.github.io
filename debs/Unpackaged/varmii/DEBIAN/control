@@ -1,0 +1,10 @@
+Package: com.passingintime.varmii
+Name: Vibranium Arc Reactor Mark II LockGlyph Theme
+Version: 1.0
+Architecture: iphoneos-arm 
+Description: Replaces default LockGlyph theme with Iron Man's Vibranium Arc Reactor Mark II.
+Homepage: passingintime.github.io
+Depends: com.evilgoldfish.lockglyph
+Section: Themes
+Author: Ryan B 
+Maintainer: PassingInTime <you@example.com>  
