@@ -420,17 +420,17 @@ Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.starlord/index.html
 Name: Star Lord LockGlyph
 
-Package: com.passingintime.starlord
+Package: com.passingintime.varmii
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
-Filename: debs//com.passingintime.starlord.deb
+Filename: debs//com.passingintime.varmii.deb
 Size: 70284
 MD5sum: 70050780acaa0bec010ea4f579b2bbfa
 SHA1: 93b88409cea3abe0ddc08c0e22c17c45d934d4aa
 Section: Themes (LockGlyph)
-Description: Replace the default LockGlyph with a Star Lord logo.
+Description: Replace the default LockGlyph with Iron Man's Vibranium Arc Reactor Mark II logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
-Depiction: http://passingintime.github.io/Depic/com.passingintime.starlord/index.html
-Name: Star Lord LockGlyph
+Depiction: http://passingintime.github.io/Depic/com.passingintime.varmii/index.html
+Name: Vibranium Arc Reactor Mark II LockGlyph
