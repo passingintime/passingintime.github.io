@@ -372,3 +372,65 @@ Description: Replace the default LockGlyph with the Umbrella Corporation logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.umbrella/index.html
 Name: Umbrella Corporation LockGlyph
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Package: com.passingintime.armi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.armi.deb
+Size: 167280
+MD5sum: d52f02b7bc8b87aa84f0a9479c4d2fc6
+SHA1: 3983d5df0641a57f1cfb1cb80f438e169fbdf2f1
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with Iron Man's Arc Reactor Mark I.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.armi/index.html
+Name: Arc Reactor Mark I LockGlyph
+
+Package: com.passingintime.hydra
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.hydra.deb
+Size: 47246
+MD5sum: 5fc9429409f2cc524de8e9abef5f23f9
+SHA1: 574a459144c73bf390ae192254e999ea8e10cbb8
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Hydra logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.hydra/index.html
+Name: Hydra LockGlyph
+
+Package: com.passingintime.starlord
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.starlord.deb
+Size: 185762
+MD5sum: 7c4b42175c4278639cf707b2cf8a08b0
+SHA1: bfe9dc42a59c10654e3683211108e1682e7e63fb
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with a Star Logo logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.starlord/index.html
+Name: Star Lord LockGlyph
+
+Package: com.passingintime.starlord
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.starlord.deb
+Size: 70284
+MD5sum: 70050780acaa0bec010ea4f579b2bbfa
+SHA1: 93b88409cea3abe0ddc08c0e22c17c45d934d4aa
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with a Star Lord logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.starlord/index.html
+Name: Star Lord LockGlyph
