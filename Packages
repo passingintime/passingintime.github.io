@@ -379,9 +379,9 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.armi.deb
-Size: 47246
-MD5sum: 5fc9429409f2cc524de8e9abef5f23f9
-SHA1: 574a459144c73bf390ae192254e999ea8e10cbb8
+Size: 167284
+MD5sum: 20a2e1c9c587d4a2cc7bd998236ea476
+SHA1: 637053572348c11c186defacd86d77cfaf1dbe82
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with Iron Man's Arc Reactor Mark I.
 Author: Ryan Baldwin <passingintime@gmail.com>
