@@ -432,3 +432,18 @@ Description: Replace the default LockGlyph with Iron Man's Vibranium Arc Reactor
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.varmii/index.html
 Name: Vibranium Arc Reactor Mark II LockGlyph
+
+Package: com.passingintime.hollowsquad
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.hollowsquad.deb
+Size: 155648
+MD5sum: 88ac8b6fb328094cdc1e431c7118f1c4
+SHA1: d3d6d1a36d2dd1600cf66a6c18b80fdb7989c064
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Hollow Squad logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.hollowsquad/index.html
+Name: Hollow Squad LockGlyph
