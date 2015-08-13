@@ -454,9 +454,9 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.hollowsquadbw.deb
-Size: 152980
-MD5sum: 88ac8b6fb328094cdc1e431c7118f1c4
-SHA1: d3d6d1a36d2dd1600cf66a6c18b80fdb7989c064
+Size: 118420
+MD5sum: 0e26cd077d288d9358eff4660b53dca4
+SHA1: 028d7f6e62a58edbdeafe995882608a8033c275b
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Hollow Squad logo in black and white.
 Author: Ryan Baldwin <passingintime@gmail.com>
