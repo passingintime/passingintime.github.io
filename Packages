@@ -439,7 +439,7 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.hollowsquad.deb
-Size: 155648
+Size: 152980
 MD5sum: 88ac8b6fb328094cdc1e431c7118f1c4
 SHA1: d3d6d1a36d2dd1600cf66a6c18b80fdb7989c064
 Section: Themes (LockGlyph)
