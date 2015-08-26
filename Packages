@@ -462,3 +462,33 @@ Description: Replace the default LockGlyph with the Hollow Squad logo in black a
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.hollowsquadbw/index.html
 Name: Hollow Squad Black And White LockGlyph
+
+Package: com.passingintime.jp
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.jp.deb
+Size: 68474
+MD5sum: ddb7257188409993fb724da80ac83cb0
+SHA1: 9f6d180ab94224674485949d425fbce2b7327b78
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Jurassic Park logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.jp/index.html
+Name: Jurassic Park LockGlyph
+
+Package: com.passingintime.jw
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.jw.deb
+Size: 165114
+MD5sum: cc6d5c25ed9bb86e6c224e9c406a01e3
+SHA1: be2130e5a0342bdd6ad309e3f900d4fd59a209c0
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Jurassic World logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.jw/index.html
+Name: Jurassic World LockGlyph
