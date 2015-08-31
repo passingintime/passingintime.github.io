@@ -492,3 +492,18 @@ Description: Replace the default LockGlyph with the Jurassic World logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.jw/index.html
 Name: Jurassic World LockGlyph
+
+Package: com.passingintime.ase
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.ase.deb
+Size: 194626
+MD5sum: 72c3f6494b0eaf12c599f22b38eef86a
+SHA1: 6f2d55c7e74bced15b5141b285dd8f9ff7646596
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with an All-Seeing Eye logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.ase/index.html
+Name: All-Seeing Eye LockGlyph
