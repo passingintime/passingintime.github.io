@@ -522,3 +522,78 @@ Description: Replace the default LockGlyph with an Eye of Horus logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.eoh/index.html
 Name: Eye of Horus LockGlyph
+
+Package: com.passingintime.dpool
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.dpool.deb
+Size: 29888
+MD5sum: cd804e25887a98c944a14ba31b1aa81f
+SHA1: 37c04ade50e9422dee89cb6dba89402c10d2a457
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with a Deadpool logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.dpool/index.html
+Name: Deadpool LockGlyph
+
+Package: com.passingintime.dstar
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.dstar.deb
+Size: 82080
+MD5sum: 54b8c295ea3440fe237d386afce8deb6
+SHA1: 326ef0570ad5577aec15b41f6bf1c05cdc81b519
+Section: Themes (LockGlyph)
+Description: That's No Moon!!
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.dstar/index.html
+Name: Death Star LockGlyph
+
+Package: com.passingintime.earth
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.earth.deb
+Size: 175518
+MD5sum: 071f8218417b82792c0c5420deb24ca6
+SHA1: f611441580dd8e9b53488764981573345065f157
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Earth.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.earth/index.html
+Name: Earth LockGlyph
+
+Package: com.passingintime.moon
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.moon.deb
+Size: 176426
+MD5sum: cde38226754b5508abe9ccc6539994db
+SHA1: 35810f6a56efbc85adc08b369cdf19f71b561fea
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Moon.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.moon/index.html
+Name: Moon LockGlyph
+
+Package: com.passingintime.soulection
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.soulection.deb
+Size: 11962
+MD5sum: 36219a3404b56cd362c2d899bf415e73
+SHA1: 7d6296f5294b4f1272c4df9ef94e16f40c9faa9f
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Soulection logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.soulection/index.html
+Name: Soulection LockGlyph

@@ -1,0 +1,10 @@
+Package: com.passingintime.moon
+Name: Moon LockGlyph Theme
+Version: 1.0
+Architecture: iphoneos-arm 
+Description: Moon LockGlyph Theme.
+Homepage: passingintime.github.io
+Depends: com.evilgoldfish.lockglyph
+Section: Themes
+Author: Ryan B 
+Maintainer: PassingInTime <you@example.com>  
