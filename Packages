@@ -597,3 +597,18 @@ Description: Replace the default LockGlyph with the Soulection logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.soulection/index.html
 Name: Soulection LockGlyph
+
+Package: com.passingintime.versace
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.versace.deb
+Size: 51968
+MD5sum: 7cb04fda9ce22740f9c627d203bcde10
+SHA1: 0710013f5cb3e3e8c1d18e350af0ef787cf81274
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Versace logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.versace/index.html
+Name: Versace LockGlyph
