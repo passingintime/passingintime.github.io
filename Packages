@@ -612,3 +612,18 @@ Description: Replace the default LockGlyph with the Versace logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.versace/index.html
 Name: Versace LockGlyph
+
+Package: com.passingintime.avenpack
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.avenpack.deb
+Size: 296808
+MD5sum: 4f41afec02198debb9efaf67e774a14a
+SHA1: 667984d77c8441545213c7f22a10d62f05884bdd
+Section: Themes (LockGlyph)
+Description: Avengers them pack to replace the default LockGlyph.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.avenpack/index.html
+Name: Avengers Theme Pack LockGlyph
