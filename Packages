@@ -642,3 +642,138 @@ Description: Replace the default LockGlyph with the Yasuo logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.yasuo/index.html
 Name: Yasuo LockGlyph
+
+Package: com.passingintime.gplus
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.gplus.deb
+Size: 16742
+MD5sum: 49537ba8d02bf52ee8fc4efee2c14de8
+SHA1: db37d90ef3a1bf2d84b5b3224f32e99230021955
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Google+ logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.gplus/index.html
+Name: Google+ LockGlyph
+
+Package: com.passingintime.heineken
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.heineken.deb
+Size: 177864
+MD5sum: df454d1dee963a001405813dbf543656
+SHA1: 8bf19b87c56ab36192b504a2e6fb4f8cb70dfa7a
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Heineken logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.heineken/index.html
+Name: Heineken LockGlyph
+
+Package: com.passingintime.mpie
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.mpie.deb
+Size: 179146
+MD5sum: 3009e852c90a39b2686f8253338a6f9f
+SHA1: 9b028ba57db884e861937725097a4dda0916f0ab
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Moonpie logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.mpie/index.html
+Name: Moonpie LockGlyph
+
+Package: com.passingintime.pinterest
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.pinterest.deb
+Size: 37362
+MD5sum: 79256d6c3c3abc10cf54bb5f9b9435bc
+SHA1: 86ea6eb6943b1a26392379ac82af9898033d6678
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Pinterest logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.pinterest/index.html
+Name: Pinterest LockGlyph
+
+Package: com.passingintime.popeyes
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.popeyes.deb
+Size: 67064
+MD5sum: 4e332b292ec92f7e52ad5b33f82ab79e
+SHA1: 661d586d11aae0d3665965e21897b601bcfe513e
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Popeyes logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.popeyes/index.html
+Name: Popeyes LockGlyph
+
+Package: com.passingintime.sbucks
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.sbucks.deb
+Size: 76386
+MD5sum: d2c0336519ff5adfcda7ed38e6124136
+SHA1: a3f1a0c4c0f4f0e4f4e5b45ce8d446e7d34c0eb3
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Starbucks logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.sbucks/index.html
+Name: Starbucks LockGlyph
+
+Package: com.passingintime.twitter
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.twitter.deb
+Size: 15240
+MD5sum: b3f84a0aaa1f2097d5be9cd56095019d
+SHA1: c43bc271e7776a8275c7e7727bb031180d839042
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Twitter logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.twitter/index.html
+Name: Twitter LockGlyph
+
+Package: com.passingintime.vine
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.vine.deb
+Size: 27364
+MD5sum: 2ff94ec56d60fc555d702ce10309c25d
+SHA1: 64cea4b161bdadbe2e199bdc68a30e0df9fde547
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Vine logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.vine/index.html
+Name: Vine LockGlyph
+
+Package: com.passingintime.yamaha
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.yamaha.deb
+Size: 44132
+MD5sum: 65328e4e3f94fa54326d3d1b901bf181
+SHA1: 309ea0dc8a666d6b2e8599f0597b7e3ca88f8c73
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Yamaha logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.yamaha/index.html
+Name: Yamaha LockGlyph
