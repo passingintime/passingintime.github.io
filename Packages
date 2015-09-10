@@ -623,7 +623,22 @@ Size: 296808
 MD5sum: 4f41afec02198debb9efaf67e774a14a
 SHA1: 667984d77c8441545213c7f22a10d62f05884bdd
 Section: Themes (LockGlyph)
-Description: Avengers them pack to replace the default LockGlyph.
+Description: Avengers theme pack to replace the default LockGlyph.
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.avenpack/index.html
 Name: Avengers Theme Pack LockGlyph
+
+Package: com.passingintime.yasuo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.yasuo.deb
+Size: 25940
+MD5sum: 0e8d8e6dba32992312d7d9be4fcf5ed5
+SHA1: 3dfa3ebe876fbc3b7a387447a7750d336804cc8a
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Yasuo logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.yasuo/index.html
+Name: Yasuo LockGlyph
