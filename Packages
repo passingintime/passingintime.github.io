@@ -777,3 +777,48 @@ Description: Replace the default LockGlyph with the Yamaha logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.yamaha/index.html
 Name: Yamaha LockGlyph
+
+Package: com.passingintime.yamaha
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.yamaha.deb
+Size: 44132
+MD5sum: 65328e4e3f94fa54326d3d1b901bf181
+SHA1: 309ea0dc8a666d6b2e8599f0597b7e3ca88f8c73
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Yamaha logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.yamaha/index.html
+Name: Yamaha LockGlyph
+
+Package: com.passingintime.cpalace
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.cpalace.deb
+Size: 48932
+MD5sum: f6b3b2efe7c2f925dea2e2bfe089d017
+SHA1: 485c9bed445abb9dc2782258b5af1879cb70dafb
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Crystal Palace F.C. logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.cpalace/index.html
+Name: Crystal Palace F.C. LockGlyph
+
+Package: com.passingintime.spshearth
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.spshearth.deb
+Size: 104406
+MD5sum: e797f8e73baf3e76864e59c64809c7b2
+SHA1: 0118c0fa80b4f24f16d9d47b88225907d8af653c
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with Disney's Epcot's Spaceship Earth.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.spshearth/index.html
+Name: Spaceship Earth LockGlyph
