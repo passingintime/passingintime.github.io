@@ -784,9 +784,9 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.cpalace.deb
-Size: 79092
-MD5sum: 5cd529d0754aad45c41d279d88a24bc7
-SHA1: 3e09ee0fd4f92ad0953de172f4b744e98c5a64b3
+Size: 58326
+MD5sum: b4947e8cfc59fad2bfd307e97e80b9c5
+SHA1: 01af55632cc7079a70a4ab16d5cb3746b24cd03b
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Crystal Palace F.C. logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
