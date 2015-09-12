@@ -1,6 +1,6 @@
 Package: com.passingintime.cocacolaflat
 Name: Flat CocaCola LockGlyph Theme
-Version: 2.1
+Version: 3.0
 Architecture: iphoneos-arm 
 Description: Replaces default LockGlyph theme with the CocaCola logo with flat colors.
 Homepage: passingintime.github.io

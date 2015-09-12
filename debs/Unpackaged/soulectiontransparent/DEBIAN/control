@@ -1,8 +1,8 @@
 Package: com.passingintime.soulectiontp
 Name: Transparent Soulection LockGlyph Theme
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm 
-Description: Transparent Soulection With Bonus Invert LockGlyph.
+Description: Transparent Soulection With Bonus Inverted LockGlyph.
 Homepage: passingintime.github.io
 Depends: com.evilgoldfish.lockglyph
 Section: Themes
