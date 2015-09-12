@@ -801,7 +801,7 @@ Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.spshearth.deb
 Size: 141716
 MD5sum: 7ce7f7bf9b24a731156acb146fefa248
-SHA1: 9ef5d142720c387e5711a13d40d68600aa88a851
+SHA1: 9ef5d142720c387e5711a13d40d68600aa88a851
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with Disney's Epcot's Spaceship Earth.
 Author: Ryan Baldwin <passingintime@gmail.com>
