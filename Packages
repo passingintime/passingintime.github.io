@@ -396,7 +396,7 @@ Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.hydra.deb
 Size: 67606
 MD5sum: b64c5a14cec47c8730daf184fd0d2015
-SHA1: b64c5a14cec47c8730daf184fd0d2015
+SHA1: 475c4f0ecba511442cdf30339f582e090acda52c
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Hydra logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
