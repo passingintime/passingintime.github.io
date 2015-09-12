@@ -779,14 +779,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.yamaha/index.h
 Name: Yamaha LockGlyph
 
 Package: com.passingintime.cpalace
-Version: 2.0
+Version: 2.5
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.cpalace.deb
-Size: 123638
-MD5sum: efe7b2472845660ffa1704ade139ef58
-SHA1: 99e8e162b2181c8cf154042ccab4f63ff4567551
+Size: 79092
+MD5sum: 5cd529d0754aad45c41d279d88a24bc7
+SHA1: 3e09ee0fd4f92ad0953de172f4b744e98c5a64b3
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Crystal Palace F.C. logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
