@@ -807,3 +807,48 @@ Description: Replace the default LockGlyph with Disney's Epcot's Spaceship Earth
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.spshearth/index.html
 Name: Spaceship Earth LockGlyph
+
+Package: com.passingintime.gokussj
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.gokussj.deb
+Size: 65506
+MD5sum: af873ef1cb75f379b9b3935c429a5460
+SHA1: 1d1c30e5d1be10d7923da4bfd53e0550c80f9aa0
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with 8-bit Goku going SSJ.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.gokussj/index.html
+Name: 8-bit Goku SSJ LockGlyph
+
+Package: com.passingintime.peace
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.peace.deb
+Size: 44102
+MD5sum: 6b0556ee3e547952b6445009a2cafd91
+SHA1: 5895fcdb5ca739a5924bf7ff1d47c187cf878a4a
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with a peace sign.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.peace/index.html
+Name: Peace Sign LockGlyph
+
+Package: com.passingintime.tsm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.tsm.deb
+Size: 13772
+MD5sum: 79ee56b33aebf0d0d9bbaa651daf7ab5
+SHA1: d8773419699b5a5a167aa8a04ee653b801c6f899
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Team Solomid logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.tsm/index.html
+Name: Team Solomid LockGlyph

@@ -1,0 +1,10 @@
+Package: com.passingintime.gokussj
+Name: 8-bit Goku SSJ LockGlyph Theme
+Version: 1.0
+Architecture: iphoneos-arm 
+Description: 8-bit Goku Going Super Saiyan LockGlyph.
+Homepage: passingintime.github.io
+Depends: com.evilgoldfish.lockglyph
+Section: Themes
+Author: Ryan B 
+Maintainer: PassingInTime <you@example.com>  
