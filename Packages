@@ -809,14 +809,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.spshearth/inde
 Name: Spaceship Earth LockGlyph
 
 Package: com.passingintime.gokussj
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.gokussj.deb
-Size: 65506
-MD5sum: af873ef1cb75f379b9b3935c429a5460
-SHA1: 1d1c30e5d1be10d7923da4bfd53e0550c80f9aa0
+Size: 65084
+MD5sum: f498f9cd6f6714cb3489bc0e990640b5
+SHA1: 23ee547c0fa6475075bbd3849d0c4b6ee2a69add
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with 8-bit Goku going SSJ.
 Author: Ryan Baldwin <passingintime@gmail.com>
