@@ -867,3 +867,18 @@ Description: Replace the default LockGlyph with the Bayern München logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.bayernmunchen/index.html
 Name: Bayern München LockGlyph
+
+Package: com.passingintime.captambw
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.captambw.deb
+Size: 26018
+MD5sum: b756953d6d2c07be303e7bdab5167f4b
+SHA1: b5227039df00109a55b46ad4bd9f6ccc16c71319
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with Captain America's Shield in black and white.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.captambw/index.html
+Name: Captain America Black And White LockGlyph
