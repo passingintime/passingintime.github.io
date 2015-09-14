@@ -852,3 +852,18 @@ Description: Replace the default LockGlyph with the Team Solomid logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.tsm/index.html
 Name: Team Solomid LockGlyph
+
+Package: com.passingintime.bayernmunchen
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.bayernmunchen.deb
+Size: 75510
+MD5sum: 9799f329d0206090a523146b8022b956
+SHA1: f4286133575286179330fe17fe9aceda071e1960
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Bayern München logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.bayernmunchen/index.html
+Name: Bayern München LockGlyph
