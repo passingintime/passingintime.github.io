@@ -882,3 +882,33 @@ Description: Replace the default LockGlyph with Captain America's Shield in blac
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.captambw/index.html
 Name: Captain America Black And White LockGlyph
+
+Package: com.passingintime.capcorp
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.capcorp.deb
+Size: 59856
+MD5sum: cdaee6d9948a29938c98c43463130cd3
+SHA1: e981d5d6eaed661a99dc6af9d577f6a8ec573799
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Capsule Corp logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.capcorp/index.html
+Name: Capsule Corp LockGlyph
+
+Package: com.passingintime.fourstar
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.fourstar.deb
+Size: 27622
+MD5sum: cbd9257ceccf501dffe48c310e0dc9cc
+SHA1: fc55083cc8536d45471439e9b54cea77169024b6
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Four Star logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.fourstar/index.html
+Name: Four Star LockGlyph

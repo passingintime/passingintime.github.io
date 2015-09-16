@@ -1,0 +1,10 @@
+Package: com.passingintime.capcorp
+Name: Capsule Corp LockGlyph Theme
+Version: 1.0
+Architecture: iphoneos-arm 
+Description: Capsule Corp LockGlyph.
+Homepage: passingintime.github.io
+Depends: com.evilgoldfish.lockglyph
+Section: Themes
+Author: Ryan B 
+Maintainer: PassingInTime <you@example.com>  
