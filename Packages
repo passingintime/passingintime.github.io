@@ -912,3 +912,33 @@ Description: Replace the default LockGlyph with the Four Star logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.fourstar/index.html
 Name: Four Star LockGlyph
+
+Package: com.passingintime.fourstarbw
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.fourstarbw.deb
+Size: 15712
+MD5sum: 75de9b0b4da45bc6625afa32a63c4e58
+SHA1: 47420e2bdd218f8f9dc3b294dfd020847df59eb4
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Four Star logo in black and white.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.fourstarbw/index.html
+Name: Four Star Black And White LockGlyph
+
+Package: com.passingintime.capcorpbw
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.capcorpbw.deb
+Size: 30466
+MD5sum: 3cf45c05786c25da827823b0c7f39798
+SHA1: 88135d260cde6244175676025b82577f7289e75c
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Four Star logo in black and white.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.capcorpbw/index.html
+Name: Capsule Corp Black And White LockGlyph

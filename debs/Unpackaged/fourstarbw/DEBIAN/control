@@ -1,0 +1,10 @@
+Package: com.passingintime.fourstarbw
+Name: Black And White Four Star LockGlyph Theme
+Version: 1.0
+Architecture:  iphoneos-arm 
+Description: Four Star In Black And White LockGlyph.
+Homepage: passingintime.github.io
+Depends: com.evilgoldfish.lockglyph
+Section: Themes
+Author: Ryan B 
+Maintainer: PassingInTime <you@example.com>  
