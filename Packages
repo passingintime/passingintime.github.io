@@ -839,14 +839,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.peace/index.ht
 Name: Peace Sign LockGlyph
 
 Package: com.passingintime.tsm
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.tsm.deb
-Size: 13772
-MD5sum: 79ee56b33aebf0d0d9bbaa651daf7ab5
-SHA1: d8773419699b5a5a167aa8a04ee653b801c6f899
+Size: 26838
+MD5sum: 9eb6c30b71a3f43a9b588cc2938de66d
+SHA1: 9e6a5afb2ea961f77fb0a6c0bc8ddc0aa40fa0ee
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Team Solomid logo.
 Author: Ryan Baldwin <passingintime@gmail.com>

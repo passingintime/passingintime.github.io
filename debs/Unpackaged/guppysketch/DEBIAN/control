@@ -1,8 +1,8 @@
-Package: com.passingintime.tsm
-Name: TSM LockGlyph Theme
-Version: 2.0
+Package: com.passingintime.guppysketch
+Name: Guppy's Head Sketch LockGlyph Theme
+Version: 1.0
 Architecture: iphoneos-arm 
-Description: Team Solomid LockGlyph.
+Description: Guppy's Head Sketch LockGlyph.
 Homepage: passingintime.github.io
 Depends: com.evilgoldfish.lockglyph
 Section: Themes
