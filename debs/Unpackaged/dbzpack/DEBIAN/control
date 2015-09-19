@@ -1,8 +1,8 @@
-Package: com.passingintime.fourstar
-Name: Four Star LockGlyph Theme
+Package: com.passingintime.dbzpack
+Name: DBZ Pack LockGlyph Theme
 Version: 1.0
 Architecture: iphoneos-arm 
-Description: Four Star LockGlyph.
+Description: DBZ Pack LockGlyph.
 Homepage: passingintime.github.io
 Depends: com.evilgoldfish.lockglyph
 Section: Themes
