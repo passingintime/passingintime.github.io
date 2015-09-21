@@ -897,3 +897,18 @@ Description: Replace the default LockGlyph with Dragon Ball Z icons and logos.
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.dbzpack/index.html
 Name: DBZ Theme Pack LockGlyph
+
+Package: com.passingintime.chelseafc
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.chelseafc.deb
+Size: 176528
+MD5sum: 6b9748a0c48d878d6476be742e8f3416
+SHA1: 6a7e3ff97a23a9862fd732d860078760f96147dd
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Chelsea F.C. logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.chelseafc/index.html
+Name: Chelsea F.C. LockGlyph
