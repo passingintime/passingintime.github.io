@@ -904,9 +904,9 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.chelseafc.deb
-Size: 176528
-MD5sum: 6b9748a0c48d878d6476be742e8f3416
-SHA1: 6a7e3ff97a23a9862fd732d860078760f96147dd
+Size: 167042
+MD5sum: 495b17a0e2c38a440a7a30bcc9e91eee
+SHA1: 9ddf57cede4172a327bd17b0da9f730a641a10cb
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Chelsea F.C. logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
