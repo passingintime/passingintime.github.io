@@ -1,0 +1,67 @@
+<html>
+<head>
+    <title>Versace LockGlyph</title>
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0"/>
+    <base target="_blank"/>
+    <script type="text/javascript" src="http://beta.tmnlsthrn.com/css/menes.js"></script>
+    <link rel="stylesheet" type="text/css" id="stylesheet">
+    <script type="text/javascript">var agent=navigator.userAgent;var ios=agent.match(/.*; CPU (?:iPhone )?OS ([0-9_]*) like Mac OS X[;)]/);ios=ios==null?'6.0':ios[1].replace(/_/g,'.');var stylesheet=$("#stylesheet");if(ios.match(/^[78]($|\.)/)!=null){stylesheet.href("http://beta.tmnlsthrn.com/css/ios78.css")}else{stylesheet.href("http://beta.tmnlsthrn.com/css/legacy.css")}</script>
+</head>
+
+<script type="text/javascript">
+    if (navigator.userAgent.search(/Cydia/) != -1)
+    document.write('<style type="text/css"> body { background: none !important; } .header { display: none !important; } </style>');
+    </script>
+
+<body class="">
+    <panel>
+
+        <fieldset class="iosver">
+            <div data-min-ios="7.0" data-max-ios="8.4" class="prerequisite">
+                <p>Supports iOS 8 (most firmware.)</p>
+            </div>
+        </fieldset>
+
+    <label>Description</label>
+        <fieldset>
+            <div>
+                <p>Replaces The Default LockGlyph Fingerprint With The Versace Logo.</p>
+            </div>
+        </fieldset>
+		
+	<label>Screenshots</label>
+        <fieldset>
+            <a><div><p align="center"><img 
+src="http://passingintime.github.io/assets/screenshots/versace.png"></p><div><label><p><a href="http://passingintime.github.io/assets/screenshots/versacefs.png">Full Size Screenshot</a></p></label></div></div></a>
+        </fieldset>
+		
+    <label>Dependencies</label>
+        <fieldset>
+            <a><div><div><label><p>LockGlyph</p></label></div></div></a>
+        </fieldset>
+
+    <label>In This Version</label>
+        <fieldset>
+            <a><div><div><label><p>v2.0 Updated To Fix Issues With Sizing On The 6+. (Hopefully It Doesn't Look Like Complete Sh*t)</p></label></div></div></a>
+        </fieldset>
+
+	<label>Consider Donating</label>
+		<fieldset>
+			<form  align="center" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+			<input type="hidden" name="cmd" value="_s-xclick">
+			<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----">
+			<input type="image" src="http://passingintime.github.io/assets/icons/paypal.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+			<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+			</form>
+		</fieldset>
+        
+    <label>Contact</label>
+        <fieldset>
+        	  <a href="https://twitter.com/passingintime"><img class="icon" src="http://passingintime.github.io/assets/icons/twitter.png"><div><div><label><p>Follow @PassingInTime on Twitter</p></label></div></div></a>
+			  <a href="https://www.reddit.com/user/passingintime"><img class="icon" src="http://passingintime.github.io/assets/icons/reddit.png"><div><div><label><p>Contact /u/passingintime</p></label></div></div></a>
+        </fieldset>
+
+</panel>
+<script src="http://passingintime.github.io/assets/js/iosver.js" async></script>
+</body>
+</html>

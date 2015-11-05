@@ -919,9 +919,9 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.bvb.deb
-Size: 51180
-MD5sum: d04eabe515b4c30e7e0fc08210458075
-SHA1: 79424fd50b2f74ab845991b6e1a55f8a9797bc0e
+Size: 53850
+MD5sum: c3991acc10d5c1a39c85293d709c5e33
+SHA1: 312dc02f28eade30bc6bbf341b4f9c3d7098303a
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Borussia Dortmund logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
