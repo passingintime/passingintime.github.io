@@ -859,9 +859,9 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.bayernmunchen.deb
-Size: 75510
-MD5sum: 9799f329d0206090a523146b8022b956
-SHA1: f4286133575286179330fe17fe9aceda071e1960
+Size: 53850
+MD5sum: c3991acc10d5c1a39c85293d709c5e33
+SHA1: 312dc02f28eade30bc6bbf341b4f9c3d7098303a
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Bayern München logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -912,3 +912,18 @@ Description: Replace the default LockGlyph with the Chelsea F.C. logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.chelseafc/index.html
 Name: Chelsea F.C. LockGlyph
+
+Package: com.passingintime.bvb
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.bvb.deb
+Size: 51180
+MD5sum: d04eabe515b4c30e7e0fc08210458075
+SHA1: 79424fd50b2f74ab845991b6e1a55f8a9797bc0e
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Borussia Dortmund logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.bvb/index.html
+Name: Borussia Dortmund LockGlyph

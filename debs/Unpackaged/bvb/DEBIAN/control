@@ -1,0 +1,10 @@
+Package: com.passingintime.bvb
+Name: Borussia Dortmund LockGlyph Theme
+Version: 1.0
+Architecture: iphoneos-arm 
+Description: Borussia Dortmund Logo For LockGlyph.
+Homepage: passingintime.github.io
+Depends: com.evilgoldfish.lockglyph
+Section: Themes
+Author: Ryan B 
+Maintainer: PassingInTime <you@example.com>  
