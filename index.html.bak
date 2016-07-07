@@ -13,7 +13,7 @@
             <h1>&nbsp;</h1>
             <h1>Welcome to my Repo!</h1>
             <h4>Add <a href="cydia://url/https://cydia.saurik.com/api/share#?source=http://passingintime.github.io/">http://passingintime.github.io</a> to your Cydia Sources.</h4>
-            <h4>Contact me on Reddit at <a href="http://reddit.com/u/passingintime">/u/passingintime</a> or Twitter at <a href="http://twitter.com/passingintime">@passingintime</a>.</h4>
+            <h4>Contact me on Reddit at /u/passingintime or Twitter at @passingintime.</h4>
             
         </div>
         <script src="http://code.jquery.com/jquery.js"></script>
