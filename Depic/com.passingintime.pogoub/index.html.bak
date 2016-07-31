@@ -32,7 +32,7 @@
 	<label>Screenshots</label>
         <fieldset>
             <a><div><p align="center"><mg 
-src="http://passingintime.github.io/assets/screenshots/.png"></p><div><label><p><a href="http://passingintime.github.io/assets/screenshots/.png">Full Size Screenshot</a></p></label></div></div></a>
+src="http://passingintime.github.io/assets/screenshots/pogoub.png"></p><div><label><p><a href="http://passingintime.github.io/assets/screenshots/pogoub_full.png">Full Size Screenshot</a></p></label></div></div></a>
         </fieldset>
 		
     <label>Dependencies</label>
@@ -42,7 +42,7 @@ src="http://passingintime.github.io/assets/screenshots/.png"></p><div><label><p>
 
     <label>In This Version</label>
         <fieldset>
-            <a><div><div><label><p>v1.0 Initial</p></label></div></div></a>
+            <a><div><div><label><p>v1.0 Initial Release</p></label></div></div></a>
         </fieldset>
 
 	<label>Consider Donating</label>
