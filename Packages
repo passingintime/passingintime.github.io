@@ -927,3 +927,123 @@ Description: Replace the default LockGlyph with the Borussia Dortmund logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.bvb/index.html
 Name: Borussia Dortmund LockGlyph
+
+Package: com.passingintime.pogogb
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.pogogb.deb
+Size: 27372
+MD5sum: 7eac7bc85d5b609628e0b8ddc2c0b503
+SHA1: c5faddaa68deb29e7778bca902f989cbe48cafdc
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Pokemon Go Great Ball logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.pogogb/index.html
+Name: Pokemon Go Great Ball LockGlyph
+
+Package: com.passingintime.pogogym
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.pogogym.deb
+Size: 26720
+MD5sum: 6177dcf501b91344ccb965e63e36eb0a
+SHA1: 339b9a26c67498bf1a482ebafbc5926a3eabffc0
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Pokemon Go Gym logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.pogogym/index.html
+Name: Pokemon Go Gym LockGlyph
+
+Package: com.passingintime.pogomb
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.pogomb.deb
+Size: 54476
+MD5sum: 180c8deac6b3044521ad118232bba32e
+SHA1: 2d7328dcf2ae46c923e04e2cfa436d13b535cfe5
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Pokemon Go Master Ball logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.pogomb/index.html
+Name: Pokemon Go Master Ball LockGlyph
+
+Package: com.passingintime.pogopb
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.pogopb.deb
+Size: 23394
+MD5sum: d3a79d5934cff345739a934e5b3b5932
+SHA1: 42deedbaada7b73d25b95e6a660508beea0a1132
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Pokemon Go Poke Ball logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.pogopb/index.html
+Name: Pokemon Go Poke Ball LockGlyph
+
+Package: com.passingintime.pogoti
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.pogoti.deb
+Size: 56064
+MD5sum: 2deb5596a382cfffcb57558e8006ebab
+SHA1: 0984c5c2ca4e7e5e2f991d23f921231a1abba299
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Pokemon Go Team Instinct logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.pogoti/index.html
+Name: Pokemon Go Team Instinct LockGlyph
+
+Package: com.passingintime.pogotm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.pogotm.deb
+Size: 42974
+MD5sum: cba6dc96fed1b8703f7298c372d07644
+SHA1: be872a1cbad8069ebd572cb5012dfadebd6571f6
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Pokemon Go Team Mystic logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.pogotm/index.html
+Name: Pokemon Go Team Mystic LockGlyph
+
+Package: com.passingintime.pogotv
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.pogotv.deb
+Size: 48148
+MD5sum: a844d72e8a106d0d23db9b480d5c7d55
+SHA1: 2c8534def49634f961da3332f6f8217b14273662
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Pokemon Go Team Valor logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.pogotv/index.html
+Name: Pokemon Go Team Valor LockGlyph
+
+Package: com.passingintime.pogoub
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.passingintime.pogoub.deb
+Size: 26048
+MD5sum: 346537a5d0c2f0d3304d264d02e2958d
+SHA1: 39e3da6764bca8a2abddf2af46214eac471e9acb
+Section: Themes (LockGlyph)
+Description: Replace the default LockGlyph with the Pokemon Go Ultra Ball logo.
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.pogoub/index.html
+Name: Pokemon Go Ultra Ball LockGlyph
