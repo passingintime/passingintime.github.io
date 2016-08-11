@@ -1047,3 +1047,48 @@ Description: Replace the default LockGlyph with the Pokemon Go Ultra Ball logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.pogoub/index.html
 Name: Pokemon Go Ultra Ball LockGlyph
+
+Package: com.passingintime.zepti
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.alexzielenski.zeppelin
+Filename: debs//com.passingintime.zepti.deb
+Size: 2854
+MD5sum: 607cd73bf21fbcff7958cdeb55613248
+SHA1: 4c77d32813550c8f2a0f7cbe72a007ada4bf4da4
+Section: Themes (Zeppelin)
+Description: Team Instinct Zeppelin Logo
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.zepti/index.html
+Name: Team Instinct Zeppelin Logo
+
+Package: com.passingintime.zeptm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.alexzielenski.zeppelin
+Filename: debs//com.passingintime.zeptm.deb
+Size: 3180
+MD5sum: 277a3fd809c3aba7b2e109c89adb666e
+SHA1: 55c47f7e4cb362778cb8b36f1d04b596885e1e80
+Section: Themes (Zeppelin)
+Description: Team Mystic Zeppelin Logo
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.zeptm/index.html
+Name: Team Mystic Zeppelin Logo
+
+Package: com.passingintime.zeptv
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.alexzielenski.zeppelin
+Filename: debs//com.passingintime.zeptv.deb
+Size: 3234
+MD5sum: a986d241f22120b72d4f02ec0f2b2263
+SHA1: 7f1bccacc93759630e0bd84c85d3b2ae27213b1d
+Section: Themes (Zeppelin)
+Description: Team Valor Zeppelin Logo
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: http://passingintime.github.io/Depic/com.passingintime.zeptv/index.html
+Name: Team Valor Zeppelin Logo
