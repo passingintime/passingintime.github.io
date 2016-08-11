@@ -1049,14 +1049,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.pogoub/index.h
 Name: Pokemon Go Ultra Ball LockGlyph
 
 Package: com.passingintime.zepti
-Version: 1.5
+Version: 1.6
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.alexzielenski.zeppelin
 Filename: debs//com.passingintime.zepti.deb
-Size: 4386
-MD5sum: 9850ac1c87c887ba78711a44f5c00d6d
-SHA1: 9c5d24f7059fcd3926045b4672f61588ccfe1f86
+Size: 4410
+MD5sum: cfd9cf2e5eb9eecfbdf5cc55ba896780
+SHA1: 40e9d1e372a605e8d949b1a8b0912a10d2e1fb82
 Section: Themes (Zeppelin)
 Description: Team Instinct Zeppelin Logo
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -1064,14 +1064,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.zepti/index.ht
 Name: Team Instinct Zeppelin Logo
 
 Package: com.passingintime.zeptm
-Version: 1.5
+Version: 1.6
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.alexzielenski.zeppelin
 Filename: debs//com.passingintime.zeptm.deb
-Size: 5032
-MD5sum: b330619aff51387063f9e7ec6946b8bf
-SHA1: d7c064fb309ba69f1df40dc53599c31eab0bb6dc
+Size: 5058
+MD5sum: e0a896257a658265142c9330812e7f93
+SHA1: cbe006d99c4132b2c10e92ed13066029fc0fa49e
 Section: Themes (Zeppelin)
 Description: Team Mystic Zeppelin Logo
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -1079,14 +1079,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.zeptm/index.ht
 Name: Team Mystic Zeppelin Logo
 
 Package: com.passingintime.zeptv
-Version: 1.5
+Version: 1.6
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.alexzielenski.zeppelin
 Filename: debs//com.passingintime.zeptv.deb
-Size: 5584
-MD5sum: 5f4c9e2cd00e5806f4c74021c53b0873
-SHA1: 1ca22ccf60ad39a16dca19fee01bdc30c02af17a
+Size: 5624
+MD5sum: 3ee3dfc12b763cbfd403c3feff86dda0
+SHA1: 845f856efc20ad64b771ad4f1f1a260b6508e2b3
 Section: Themes (Zeppelin)
 Description: Team Valor Zeppelin Logo
 Author: Ryan Baldwin <passingintime@gmail.com>
