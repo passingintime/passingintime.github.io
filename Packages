@@ -989,14 +989,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.pogopb/index.h
 Name: Pokemon Go Poke Ball LockGlyph
 
 Package: com.passingintime.pogoti
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.pogoti.deb
-Size: 56064
-MD5sum: 2deb5596a382cfffcb57558e8006ebab
-SHA1: 0984c5c2ca4e7e5e2f991d23f921231a1abba299
+Size: 22068
+MD5sum: 1c60c48173b10860863f299ceda2fbb7
+SHA1: 4582261382e60b994a51556d5c523c56254f0235
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Pokemon Go Team Instinct logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -1004,14 +1004,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.pogoti/index.h
 Name: Pokemon Go Team Instinct LockGlyph
 
 Package: com.passingintime.pogotm
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.pogotm.deb
-Size: 42974
-MD5sum: cba6dc96fed1b8703f7298c372d07644
-SHA1: be872a1cbad8069ebd572cb5012dfadebd6571f6
+Size: 26568
+MD5sum: bb6159432d2c2a58bdaa14b1644f67e9
+SHA1: b71b9d0ffa398157990a7204768311ad094f109c
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Pokemon Go Team Mystic logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -1019,14 +1019,14 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.pogotm/index.h
 Name: Pokemon Go Team Mystic LockGlyph
 
 Package: com.passingintime.pogotv
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.passingintime.pogotv.deb
-Size: 48148
-MD5sum: a844d72e8a106d0d23db9b480d5c7d55
-SHA1: 2c8534def49634f961da3332f6f8217b14273662
+Size: 28956
+MD5sum: 6a959da29d4f56bff035e45527e0f82a
+SHA1: fe2aa6f5cfd226398073745d27aecd2a4b13943d
 Section: Themes (LockGlyph)
 Description: Replace the default LockGlyph with the Pokemon Go Team Valor logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
