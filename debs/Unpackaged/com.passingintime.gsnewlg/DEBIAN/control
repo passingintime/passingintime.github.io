@@ -1,0 +1,10 @@
+Package: com.passingintime.geeksquadnew
+Name: Geek Squad (New Logo) LockGlyph Theme
+Version: 1.0
+Architecture: iphoneos-arm 
+Description: Geek Squad (New Logo)
+Homepage: passingintime.github.io
+Depends: com.evilgoldfish.lockglyph
+Section: Themes (LockGlyph)
+Author: Ryan B 
+Maintainer: PassingInTime <you@example.com>  
