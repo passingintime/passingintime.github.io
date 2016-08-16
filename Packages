@@ -1,4 +1,3 @@
-
 Package: com.passingintime.geeksquad
 Version: 3.0
 Architecture: iphoneos-arm
@@ -1095,58 +1094,31 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.zeptv/index.ht
 Name: Team Valor Zeppelin Logo
 
 Package: com.passingintime.gsnewlg
-
 Version: 1.0
-
 Architecture: iphoneos-arm
-
 Maintainer: PassingInTime <passingintime@gmail.com>
-
 Depends: com.evilgoldfish.lockglyph
-
 Filename: debs//com.passingintime.gsnewlg.deb
-
 Size: 83464
 MD5sum: 97029d432423623e9670fe4dfa0b1f30
 SHA1: 1b48aae165b75dc276c85485e54eeb658df16b9b
-
 Section: Themes (LockGlyph)
-
-Description: Replace the default LockGlyph with the new Geek Squad icon.
-
+Description: Replace the default LockGlyph with the new GeekSquad icon.
 Author: Ryan Baldwin <passingintime@gmail.com>
-
 Depiction: http://passingintime.github.io/Depic/com.passingintime.geeksquadnewlg/index.html
-
 Name: Geek Squad (New Logo) LockGlyph
 
-
-
 Package: com.passingintime.gsnewzep
-
 Version: 1.0
-
 Architecture: iphoneos-arm
-
 Maintainer: PassingInTime <passingintime@gmail.com>
-
 Depends: com.evilgoldfish.lockglyph
-
 Filename: debs//com.passingintime.gsnewzep.deb
-
 Size: 5404
-
 MD5sum: 3b74938b55692fae756a1a7dbfdd0fca
-
 SHA1: 69db3327b3a82f08d10951301c7a447f9e804f20
-
 Section: Themes (Zeppelin)
-
 Description: New Geek Squad Logo
-
 Author: Ryan Baldwin <passingintime@gmail.com>
-
 Depiction: http://passingintime.github.io/Depic/com.passingintime.geeksquadnewzep/index.html
-
 Name: Geek Squad (New Logo) Zeppelin
-
