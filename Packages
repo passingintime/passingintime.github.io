@@ -1,3 +1,4 @@
+
 Package: com.passingintime.geeksquad
 Version: 3.0
 Architecture: iphoneos-arm
@@ -863,10 +864,10 @@ Size: 53850
 MD5sum: c3991acc10d5c1a39c85293d709c5e33
 SHA1: 312dc02f28eade30bc6bbf341b4f9c3d7098303a
 Section: Themes (LockGlyph)
-Description: Replace the default LockGlyph with the Bayern MÃ¼nchen logo.
+Description: Replace the default LockGlyph with the Bayern München logo.
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: http://passingintime.github.io/Depic/com.passingintime.bayernmunchen/index.html
-Name: Bayern MÃ¼nchen LockGlyph
+Name: Bayern München LockGlyph
 
 Package: com.passingintime.captambw
 Version: 1.0
@@ -1094,31 +1095,58 @@ Depiction: http://passingintime.github.io/Depic/com.passingintime.zeptv/index.ht
 Name: Team Valor Zeppelin Logo
 
 Package: com.passingintime.gsnewlg
+
 Version: 1.0
+
 Architecture: iphoneos-arm
+
 Maintainer: PassingInTime <passingintime@gmail.com>
+
 Depends: com.evilgoldfish.lockglyph
+
 Filename: debs//com.passingintime.gsnewlg.deb
-Size: 83466
-MD5sum: 1393ef396748e873775a0261321e3be2
-SHA1: 7c90b17666e2f72fa2680c5741bac0aaea09d96e
+
+Size: 83464
+MD5sum: 97029d432423623e9670fe4dfa0b1f30
+SHA1: 1b48aae165b75dc276c85485e54eeb658df16b9b
+
 Section: Themes (LockGlyph)
+
 Description: Replace the default LockGlyph with the new Geek Squad icon.
+
 Author: Ryan Baldwin <passingintime@gmail.com>
+
 Depiction: http://passingintime.github.io/Depic/com.passingintime.geeksquadnewlg/index.html
+
 Name: Geek Squad (New Logo) LockGlyph
 
+
+
 Package: com.passingintime.gsnewzep
+
 Version: 1.0
+
 Architecture: iphoneos-arm
+
 Maintainer: PassingInTime <passingintime@gmail.com>
+
 Depends: com.evilgoldfish.lockglyph
+
 Filename: debs//com.passingintime.gsnewzep.deb
+
 Size: 5404
+
 MD5sum: 3b74938b55692fae756a1a7dbfdd0fca
+
 SHA1: 69db3327b3a82f08d10951301c7a447f9e804f20
+
 Section: Themes (Zeppelin)
+
 Description: New Geek Squad Logo
+
 Author: Ryan Baldwin <passingintime@gmail.com>
+
 Depiction: http://passingintime.github.io/Depic/com.passingintime.geeksquadnewzep/index.html
+
 Name: Geek Squad (New Logo) Zeppelin
+
