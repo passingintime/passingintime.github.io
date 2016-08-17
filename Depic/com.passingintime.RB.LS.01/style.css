@@ -1,0 +1,130 @@
+html, body {
+  margin: 0;
+  padding: 0:
+  height: 100%;
+}
+
+#pagewrapper {
+  position: fixed;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 100%;
+  cursor: default;
+}
+
+.elementwrapper {
+  width: 90%;
+  padding-bottom: 52.19%;
+  position: absolute;
+  top: 5%;
+  left: 50%;
+  transform: translate(-50%, 0);
+  padding-bottom: 83.2%;
+  text-align: center;
+}
+
+#clock {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 10vw;
+  text-shadow: 0px 0px 1px #fff;
+  color: #fff;
+  position: absolute;
+  top: 20%;
+  width: 100%;
+  text-align: center;
+}
+
+#date {
+  font-size: 10vw;
+  font-family: 'Oxygen', sans-serif;
+  color: #fff;
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, 0);
+  width: 100%;
+  text-align: center;
+}
+
+#leveldisplay{
+       position:absolute; 
+       top:50%; 
+       left:0%; 
+       width:100%; 
+       text-align:center; 
+       font-size: 8vw;
+       color: #fff;
+}
+
+.spinning-square {
+  display: inline-block;
+  width: 70%;
+  padding-bottom: 67.5%;
+  border: 4px solid white;
+  box-sizing: border-box;
+  position: absolute;
+  top: 14%;
+  left: 15%;
+  transform: translate(-50%, 0);
+  -webkit-animation: spin 10s infinite linear;
+  animation: spin 10s infinite linear;
+}
+
+.spinning-square2 {
+  display: inline-block;
+  width: 70%;
+  padding-bottom: 67.5%;
+  border: 4px solid white;
+  box-sizing: border-box;
+  position: absolute;
+  top: 14%;
+  left: 15%;
+  transform: translate(-50%, 0);
+  -webkit-animation: spin 13s infinite linear;
+  animation: spin 13s infinite linear;
+}
+
+.spinning-square3 {
+  display: inline-block;
+  width: 70%;
+  padding-bottom: 67.5%;
+  border: 4px solid white;
+  box-sizing: border-box;
+  position: absolute;
+  top: 14%;
+  left: 15%;
+  -webkit-animation: reverse spin 15s infinite linear;
+  animation: reverse spin 15s infinite linear;
+}
+
+.spinning-square4 {
+  display: inline-block;
+  width: 70%;
+  padding-bottom: 67.5%;
+  border: 4px solid white;
+  box-sizing: border-box;
+  position: absolute;
+  top: 14%;
+  left: 15%;
+  -webkit-animation: reverse spin 19s infinite linear;
+  animation: reverse spin 19s infinite linear;
+}
+
+@-moz-keyframes spin {
+  0% {
+    -moz-transform: rotateZ(0deg);
+  }
+  100% {
+    -moz-transform: rotateZ(360deg);
+  }
+}
+
+@keyframes spin {
+  0% {
+    transform: rotateZ(0deg);
+  }
+  100% {
+    transform: rotateZ(360deg);
+  }
+}
