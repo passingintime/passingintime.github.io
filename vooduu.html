@@ -1,0 +1,173 @@
+<html>
+
+<head>
+<script src=”http://code.jquery.com/jquery-1.9.1.min.js”></script>
+<style>
+    html, body {
+      height: 100%;
+      width: 100%;
+      margin: 0;
+      padding: 0;
+      background-image: url(http://wallpaper-gallery.net/images/album-cover-wallpapers/album-cover-wallpapers-21.jpg);
+      background-repeat: no-repeat;
+      background-size: auto;
+    }
+
+    #main {
+      position:absolute;
+      bottom: -25;
+      left: 50%;
+      transform: translate(-50%,0);
+      background-color: rgba(255,255,255,0.98);
+      height: 95%;
+      width: 90%;
+      border-style: solid;
+      border-width: 0px;
+      border-color: #999;
+      border-radius: 3%;
+      box-shadow: 0px -2px 2px 2px #f4f4f4 ;
+      text-align:;
+      overflow: hidden;
+    }
+
+    /* Style the tab */
+.tab {
+    overflow: hidden;
+    width: 100%;
+    border-bottom: solid 1px lightgrey;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+    background-color: #ddd;
+    overflow: hidden;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+}
+
+
+
+li {
+  width: 92%;
+  padding: 1%;
+  border-bottom: 1px solid;
+}
+
+li > div {
+  width: 100%;
+  height: auto;
+  font-size: 35;
+  display: flex;
+  flex-direction: row;
+}
+
+li > div > div {
+  margin-top: 0;
+  margin-left: 15;
+}
+
+li > div > div > p {
+  margin: 0;
+}
+
+li > div > div > p:nth-child(2) {
+  font-size: 17;
+  margin-top: 25;
+
+}
+  </style>
+</head>
+
+<body onload="openTab(event, 'mList')">
+  <div id="main">
+
+  <div class="tab">
+    <button class="tablinks" onclick="openTab(event, 'mList')">Movies</button>
+    <button class="tablinks" onclick="openTab(event, 'other')">Other</button>
+  </div>
+
+  <div id="mList" class="tabcontent">
+    <h2>Movies</h2>
+      <p>Currently Owned</p>
+        <ul style="list-style-type: none">
+          <li>
+            <div>
+              <img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2NTI1MTU4N15BMl5BanBnXkFtZTcwODg0OTY0Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg" height="10%">
+              <div>
+                <p>The Avengers</p>
+                <p>Release Date: May 4, 2012</p>
+              </div>
+            </div>
+
+            <p id="synopsis">Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.</p>
+          </li>
+
+          <li>
+            <div>
+              <img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" height="10%">
+              <div>
+                <p>Captain America</p>
+                <p>Release Date: July 22, 2011</p>
+              </div>
+            </div>
+
+            <p id="synopsis">Steve Rogers, a rejected military soldier transforms into Captain America after taking a dose of a "Super-Soldier serum". But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.</p>
+          </li>
+
+          <li>
+            <div>
+              <img src="https://images-na.ssl-images-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_UX182_CR0,0,182,268_AL_.jpg" height="10%">
+              <div>
+                <p>Thor</p>
+                <p>Release Date: May 6, 2011</p>
+              </div>
+            </div>
+
+            <p id="synopsis">The powerful, but arrogant god Thor, is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.</p>
+          </li>
+  </div>
+
+  <div id="other" class="tabcontent">
+    <h3>Other</h3>
+    <p>Other shit...We'll figure it out later.</p>
+  </div>
+</div>
+</body>
+
+<script>
+function openTab(evt, tabName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(tabName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+</script>
+</html>
