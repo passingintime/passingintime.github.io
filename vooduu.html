@@ -31,20 +31,20 @@
       overflow: hidden;
     }
 
-#mlist {
-  height: 94%;
-  overflow: scroll;
-}
+    #mlist {
+    height: 94%;
+    overflow: scroll;
+    }
 
     /* Style the tab */
-.tab {
+    .tab {
     overflow: hidden;
     width: 100%;
     border-bottom: solid 1px lightgrey;
-}
+    }
 
-/* Style the buttons inside the tab */
-.tab button {
+    /* Style the buttons inside the tab */
+    .tab button {
     background-color: inherit;
     float: left;
     border: none;
@@ -53,74 +53,83 @@
     padding: 14px 16px;
     transition: 0.3s;
     font-size: 17px;
-}
+    }
 
-/* Change background color of buttons on hover */
-.tab button:hover {
+    /* Change background color of buttons on hover */
+    .tab button:hover {
     background-color: #ddd;
     overflow: hidden;
-}
+    }
 
-/* Create an active/current tablink class */
-.tab button.active {
+    /* Create an active/current tablink class */
+    .tab button.active {
     background-color: #ccc;
-}
+    }
 
-/* Style the tab content */
-.tabcontent {
+    /* Style the tab content */
+    .tabcontent {
     display: none;
     padding: 6px 12px;
-}
+    }
 
-ul {
-  height: 100%;
-  margin-top: 0;
-}
+    ul {
+    height: 100%;
+    margin-top: 0;
+    }
 
-li {
-  width: 92%;
-  padding-top: 2%;
-  border-bottom: 1px solid;
-}
+    li {
+    width: 92%;
+    padding-top: 2%;
+    border-bottom: 1px solid;
+    }
 
-li > div {
-  width: 100%;
-  height: auto;
-  font-size: 35;
-  display: flex;
-  flex-direction: row;
-}
+    li > div {
+    width: 100%;
+    height: auto;
+    font-size: 35;
+    display: flex;
+    flex-direction: row;
+    }
 
-li > div > div {
-  margin-top: 0;
-  margin-left: 15;
-}
+    li > div > img {
+      height: 88px;
+    }
 
-li > div > div > p {
-  margin: 0;
-}
+    li > div > div {
+    margin-top: 0;
+    margin-left: 15;
+    }
 
-li > div > div > p:nth-child(2) {
-  font-size: 17;
-  margin-top: 25;
+    li > div > div > p {
+    margin: 0;
+    }
 
-}
+    li > div > div > p:nth-child(2) {
+    font-size: 17;
+    margin-top: 25;
+
+    }
+
+    li:nth-last-child(1) {
+      border-bottom: none;
+      padding-bottom: 10px;
+    }
   </style>
 </head>
 
 <body onload="openTab(event, 'mList')">
   <div id="main">
 
-  <div class="tab">
+    <div class="tab">
     <button class="tablinks" onclick="openTab(event, 'mList')">Movies</button>
     <button class="tablinks" onclick="openTab(event, 'other')">Other</button>
-  </div>
+    </div>
 
-  <div id="mList" class="tabcontent">
+      <div id="mList" class="tabcontent">
         <ul style="list-style-type: none">
           <li>
             <div>
-              <img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2NTI1MTU4N15BMl5BanBnXkFtZTcwODg0OTY0Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg" height="10%">
+              <img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2NTI1MTU4N15BMl5BanBnXkFtZTcwODg0OTY0Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg">
               <div>
                 <p>The Avengers</p>
                 <p>Release Date: May 4, 2012</p>
@@ -131,7 +140,7 @@ li > div > div > p:nth-child(2) {
 
           <li>
             <div>
-              <img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" height="10%">
+              <img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" >
               <div>
                 <p>Captain America</p>
                 <p>Release Date: July 22, 2011</p>
@@ -142,7 +151,7 @@ li > div > div > p:nth-child(2) {
 
           <li>
             <div>
-              <img src="https://images-na.ssl-images-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_UX182_CR0,0,182,268_AL_.jpg" height="10%">
+              <img src="https://images-na.ssl-images-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_UX182_CR0,0,182,268_AL_.jpg" >
               <div>
                 <p>Thor</p>
                 <p>Release Date: May 6, 2011</p>
@@ -153,7 +162,7 @@ li > div > div > p:nth-child(2) {
 
           <li>
             <div>
-              <img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2NTI1MTU4N15BMl5BanBnXkFtZTcwODg0OTY0Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg" height="10%">
+              <img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2NTI1MTU4N15BMl5BanBnXkFtZTcwODg0OTY0Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg" >
               <div>
                 <p>The Avengers</p>
                 <p>Release Date: May 4, 2012</p>
@@ -164,7 +173,7 @@ li > div > div > p:nth-child(2) {
 
           <li>
             <div>
-              <img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" height="10%">
+              <img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" >
               <div>
                 <p>Captain America</p>
                 <p>Release Date: July 22, 2011</p>
@@ -175,7 +184,7 @@ li > div > div > p:nth-child(2) {
 
           <li>
             <div>
-              <img src="https://images-na.ssl-images-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_UX182_CR0,0,182,268_AL_.jpg" height="10%">
+              <img src="https://images-na.ssl-images-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_UX182_CR0,0,182,268_AL_.jpg" >
               <div>
                 <p>Thor</p>
                 <p>Release Date: May 6, 2011</p>
@@ -184,28 +193,28 @@ li > div > div > p:nth-child(2) {
             <p id="synopsis">The powerful, but arrogant god Thor, is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.</p>
           </li>
         </ul>
-  </div>
+      </div>
 
-  <div id="other" class="tabcontent">
+    <div id="other" class="tabcontent">
     <h3>Other</h3>
     <p>Other shit...We'll figure it out later.</p>
   </div>
-</div>
+  </div>
 </body>
 
 <script>
-function openTab(evt, tabName) {
-  var i, tabcontent, tablinks;
-  tabcontent = document.getElementsByClassName("tabcontent");
-  for (i = 0; i < tabcontent.length; i++) {
+  function openTab(evt, tabName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
       tabcontent[i].style.display = "none";
   }
   tablinks = document.getElementsByClassName("tablinks");
-  for (i = 0; i < tablinks.length; i++) {
+    for (i = 0; i < tablinks.length; i++) {
       tablinks[i].className = tablinks[i].className.replace(" active", "");
   }
   document.getElementById(tabName).style.display = "block";
   evt.currentTarget.className += " active";
-}
+  }
 </script>
 </html>
