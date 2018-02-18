@@ -16,7 +16,7 @@
 
     #main {
       position:absolute;
-      bottom: -25;
+      bottom: 0;
       left: 50%;
       transform: translate(-50%,0);
       background-color: rgba(255,255,255,0.98);
@@ -30,6 +30,11 @@
       box-shadow: 0px -2px 2px 2px #f4f4f4 ;
       overflow: hidden;
     }
+
+#mlist {
+  height: 94%;
+  overflow: scroll;
+}
 
     /* Style the tab */
 .tab {
@@ -67,11 +72,14 @@
     padding: 6px 12px;
 }
 
-
+ul {
+  height: 100%;
+  margin-top: 0;
+}
 
 li {
   width: 92%;
-  padding: 1%;
+  padding-top: 2%;
   border-bottom: 1px solid;
 }
 
@@ -109,8 +117,6 @@ li > div > div > p:nth-child(2) {
   </div>
 
   <div id="mList" class="tabcontent">
-    <h2>Movies</h2>
-      <p>Currently Owned</p>
         <ul style="list-style-type: none">
           <li>
             <div>
@@ -120,7 +126,6 @@ li > div > div > p:nth-child(2) {
                 <p>Release Date: May 4, 2012</p>
               </div>
             </div>
-
             <p id="synopsis">Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.</p>
           </li>
 
@@ -132,7 +137,6 @@ li > div > div > p:nth-child(2) {
                 <p>Release Date: July 22, 2011</p>
               </div>
             </div>
-
             <p id="synopsis">Steve Rogers, a rejected military soldier transforms into Captain America after taking a dose of a "Super-Soldier serum". But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.</p>
           </li>
 
@@ -144,9 +148,42 @@ li > div > div > p:nth-child(2) {
                 <p>Release Date: May 6, 2011</p>
               </div>
             </div>
-
             <p id="synopsis">The powerful, but arrogant god Thor, is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.</p>
           </li>
+
+          <li>
+            <div>
+              <img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2NTI1MTU4N15BMl5BanBnXkFtZTcwODg0OTY0Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg" height="10%">
+              <div>
+                <p>The Avengers</p>
+                <p>Release Date: May 4, 2012</p>
+              </div>
+            </div>
+            <p id="synopsis">Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.</p>
+          </li>
+
+          <li>
+            <div>
+              <img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" height="10%">
+              <div>
+                <p>Captain America</p>
+                <p>Release Date: July 22, 2011</p>
+              </div>
+            </div>
+            <p id="synopsis">Steve Rogers, a rejected military soldier transforms into Captain America after taking a dose of a "Super-Soldier serum". But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.</p>
+          </li>
+
+          <li>
+            <div>
+              <img src="https://images-na.ssl-images-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_UX182_CR0,0,182,268_AL_.jpg" height="10%">
+              <div>
+                <p>Thor</p>
+                <p>Release Date: May 6, 2011</p>
+              </div>
+            </div>
+            <p id="synopsis">The powerful, but arrogant god Thor, is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.</p>
+          </li>
+        </ul>
   </div>
 
   <div id="other" class="tabcontent">
